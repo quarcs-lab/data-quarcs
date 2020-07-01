@@ -1,7 +1,8 @@
 # Five human capital constraints across the municipalities of Bolivia
 
-Number of cross-sectional units: 339
-Number of years: 1 
+- Number of cross-sectional units: 339
+
+- Number of years: 1 
 
 
 | Variable   | Definition                                                                                                                                                                                                                                                                                                                                                                |
@@ -22,3 +23,6 @@ Number of years: 1
 | REG102egin | Max P regionalization scheme for education inequality                                                                                                                                                                                                                                                                                                                     |
 | REG102nhe  | Max P regionalization scheme for non-spanish speking population                                                                                                                                                                                                                                                                                                           |
 | REGal_ints | Max P regionalization scheme of the first principal component of the   previous 5 indicators                                                                                                                                                                                                                                                                              |
+
+Source: [Municipal Atlas of the SDGs in Bolivia](https://www.sdsnbolivia.org/en/sdsn-presenta-avances-en-el-atlas-municipal-de-los-ods-en-bolivia-a-la-empresa-privada-boliviana/
+)

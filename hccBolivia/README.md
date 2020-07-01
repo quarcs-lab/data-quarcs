@@ -8,7 +8,7 @@
 
 - Download dataset: [hccBolivia.zip](download.zip?raw=true) 
 
-- Explore dataset: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quarcs-lab/data-quarcs/blob/master/hccBolivia/hccBolivia.ipynb]
+- Explore dataset: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quarcs-lab/data-quarcs/blob/master/hccBolivia/hccBolivia.ipynb)
 
 | Variable   | Definition                                                                                                                                                                                                                                                                                                                                                                |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

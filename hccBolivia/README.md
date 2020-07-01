@@ -1,4 +1,7 @@
+# Five human capital constraints across the municipalities of Bolivia
 
+Number of cross-sectional units: 339
+Number of years: 1 
 
 
 | Variable   | Definition                                                                                                                                                                                                                                                                                                                                                                |

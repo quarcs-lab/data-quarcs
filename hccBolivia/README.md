@@ -6,7 +6,7 @@
 
 - Number of years: 1 
 
-- Download dataset: [hccBolivia.zip](hccBolivia/download.zip?raw=true)
+- Download dataset: [hccBolivia.zip](hccBolivia/download.zip?raw=true) 
 
 - Explore dataset: 
 

@@ -12,4 +12,4 @@ To edit the following table, click on the edit bottom, copy all its contents, an
 | shdiChina  |                                                                                                        |          |      |          |
 | shdiJapan  |                                                                                                        |          |      |          |
 | shdiAfrica | Human development index and its components for the 1st level subnational regions of Africa (1990-2018) | 538      | 9    |          |
-| hccBolivia | Five human capital constraints across the municipalities of Bolivia                                    | 339      | 16   |          |                                                                                                    
+| hccBolivia | Five human capital constraints across the municipalities of Bolivia                                    | 339      | 16   | [hccBolivia.zip](hccBolivia/download.zip)         |                                                                                                    

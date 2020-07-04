@@ -8,7 +8,7 @@
 
 - Download dataset: [hccBolivia.zip](download.zip?raw=true) 
 
-- Explore dataset: [Open Tableau Online](https://prod-apnortheast-a.online.tableau.com/#/site/quarcslab/workbooks/51770?:origin=card_share_link)
+- Explore dataset: [Open in Tableau Online](https://prod-apnortheast-a.online.tableau.com/#/site/quarcslab/workbooks/51770?:origin=card_share_link)
 
 - Tutorial: Mapping and Spatial Dependence Analyses in Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1oHuGnflqE1YuTfxPLASpFDMD61Xh5Gce/view?usp=sharing)
 

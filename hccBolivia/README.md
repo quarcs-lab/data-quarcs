@@ -10,7 +10,7 @@
 
 - Explore dataset: [Open in Tableau Online](https://prod-apnortheast-a.online.tableau.com/#/site/quarcslab/workbooks/51770?:origin=card_share_link)
 
-- Tutorial: Mapping and Spatial Dependence Analyses in Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1oHuGnflqE1YuTfxPLASpFDMD61Xh5Gce/view?usp=sharing)
+- Tutorial: Mapping and Spatial Dependence Analyses in Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hJRWcLGNod9-a3ynNFg9v-p9elXo70QN?usp=sharing)
 
 | Variable   | Definition                                                                                                                                                                                                                                                                                                                                                                |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

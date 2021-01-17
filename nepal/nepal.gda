@@ -4,8 +4,8 @@
     <layers>
         <layer>
             <datasource>
-                <type>SQLite</type>
-                <path>/Applications/GeoDa.app/Contents/MacOS/../Resources/samples.sqlite</path>
+                <type>GeoJSON</type>
+                <path>nepal.geojson</path>
             </datasource>
             <layername>Nepal Aid</layername>
             <title/>

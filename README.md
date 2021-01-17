@@ -1,4 +1,4 @@
-# Datasets of the QuaRCS lab
+# QuaRCS-lab datasets: A curated collection of datasets learn and practice data science
 
 These datasets are kindly donated and mantained by the members of the QuarRCS lab. Their purpose of to foster learning and encourage new research projects. 
 They have been used in the tutorials, research papers, books, and dissertations of the QuaRCS lab.

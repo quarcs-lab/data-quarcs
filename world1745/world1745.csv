@@ -1,0 +1,1746 @@
+GDLcode,constant,iso_code,country,region,shdi
+AFGr101,World,AFG,Afghanistan,Central (Kabul Wardak Kapisa Logar Parwan Panjsher),   0.573915000000000
+AFGr102,World,AFG,Afghanistan,Central Highlands (Bamyan Daikundi),   0.484076000000000
+AFGr103,World,AFG,Afghanistan,East (Nangarhar Kunar Laghman Nooristan),   0.477673000000000
+AFGr104,World,AFG,Afghanistan,North (Samangan Sar-e-Pul Balkh Jawzjan Faryab),   0.514833000000000
+AFGr105,World,AFG,Afghanistan,North East (Baghlan Takhar Badakhshan Kunduz),   0.460395000000000
+AFGr106,World,AFG,Afghanistan,South (Uruzgan Helmand Zabul Nimroz Kandahar),   0.424135000000000
+AFGr107,World,AFG,Afghanistan,South East (Ghazni Paktya Paktika Khost),   0.489170000000000
+AFGr108,World,AFG,Afghanistan,West (Ghor Herat Badghis Farah),   0.461780000000000
+AGOr201,World,AGO,Angola,Cabinda,   0.664938000000000
+AGOr202,World,AGO,Angola,Zaire,   0.601090000000000
+AGOr203,World,AGO,Angola,Uige,   0.530214000000000
+AGOr204,World,AGO,Angola,Luanda,   0.686335000000000
+AGOr205,World,AGO,Angola,Kuanza Norte,   0.532987000000000
+AGOr206,World,AGO,Angola,Kuanza Sul,   0.444982000000000
+AGOr207,World,AGO,Angola,Malange,   0.554597000000000
+AGOr208,World,AGO,Angola,Lunda Norte,   0.510366000000000
+AGOr209,World,AGO,Angola,Benguela,   0.522659000000000
+AGOr210,World,AGO,Angola,Huambo,   0.526339000000000
+AGOr211,World,AGO,Angola,Bie,   0.491354000000000
+AGOr212,World,AGO,Angola,Moxico,   0.535001000000000
+AGOr213,World,AGO,Angola,Kuando Kubango,   0.497698000000000
+AGOr214,World,AGO,Angola,Namibe,   0.572294000000000
+AGOr215,World,AGO,Angola,Huila,   0.507918000000000
+AGOr216,World,AGO,Angola,Cunene,   0.508734000000000
+AGOr217,World,AGO,Angola,Lunda Sul,   0.567594000000000
+AGOr218,World,AGO,Angola,Bengo,   0.565254000000000
+ALBr201,World,ALB,Albania,Berat,   0.774653000000000
+ALBr202,World,ALB,Albania,Diber,   0.753036000000000
+ALBr203,World,ALB,Albania,Durres,   0.798393000000000
+ALBr204,World,ALB,Albania,Elbasan,   0.782022000000000
+ALBr205,World,ALB,Albania,Fier,   0.764381000000000
+ALBr206,World,ALB,Albania,Gjirokaster,   0.783341000000000
+ALBr207,World,ALB,Albania,Korce,   0.779192000000000
+ALBr208,World,ALB,Albania,Kukes,   0.748437000000000
+ALBr209,World,ALB,Albania,Lezhe,   0.766557000000000
+ALBr210,World,ALB,Albania,Shkoder,   0.779421000000000
+ALBr211,World,ALB,Albania,Tirana,   0.817419000000000
+ALBr212,World,ALB,Albania,Vlore,   0.802211000000000
+ANDt,World,AND,Andorra,Total,   0.857458000000000
+AREt,World,ARE,United Arab Emirates,Total,   0.866315000000000
+ARGr101,World,ARG,Argentina,City of Buenos Aires,   0.867067000000000
+ARGr102,World,ARG,Argentina,Rest of Buenos Aires,   0.818413000000000
+ARGr103,World,ARG,Argentina,"Catamarca, La Rioja, San Juan",   0.830194000000000
+ARGr104,World,ARG,Argentina,Cordoba,   0.834284000000000
+ARGr105,World,ARG,Argentina,"Corrientes, Entre Rios, Misiones",   0.810655000000000
+ARGr106,World,ARG,Argentina,"Chaco, Formosa",   0.805713000000000
+ARGr107,World,ARG,Argentina,"Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra del Fuego",   0.835899000000000
+ARGr108,World,ARG,Argentina,"Jujuy, Salta",   0.820961000000000
+ARGr109,World,ARG,Argentina,"La Pampa, San Luis, Mendoza",   0.837177000000000
+ARGr110,World,ARG,Argentina,Santa Fe,   0.839529000000000
+ARGr111,World,ARG,Argentina,"Santiago del Estero, Tucuman",   0.816400000000000
+ARMr101,World,ARM,Armenia,Aragatsotn,   0.742326000000000
+ARMr102,World,ARM,Armenia,Ararat,   0.732800000000000
+ARMr103,World,ARM,Armenia,Armavir,   0.727285000000000
+ARMr104,World,ARM,Armenia,Gegharkunik,   0.726767000000000
+ARMr105,World,ARM,Armenia,Lori,   0.729467000000000
+ARMr106,World,ARM,Armenia,Kotayk,   0.764475000000000
+ARMr107,World,ARM,Armenia,Shirak,   0.756381000000000
+ARMr108,World,ARM,Armenia,Syunik,   0.757595000000000
+ARMr109,World,ARM,Armenia,Vayots Dzor,   0.750370000000000
+ARMr110,World,ARM,Armenia,Tavush,   0.738222000000000
+ARMr111,World,ARM,Armenia,Yerevan,   0.801494000000000
+ATGt,World,ATG,Antigua and Barbuda,Total,   0.777000000000000
+AUSr101,World,AUS,Australia,New South Wales,   0.938713000000000
+AUSr102,World,AUS,Australia,Victoria,   0.936465000000000
+AUSr103,World,AUS,Australia,Queensland,   0.931994000000000
+AUSr104,World,AUS,Australia,South Australia,   0.926435000000000
+AUSr105,World,AUS,Australia,Western Australia,   0.953347000000000
+AUSr106,World,AUS,Australia,Tasmania,   0.907429000000000
+AUSr107,World,AUS,Australia,Northern Territory,   0.926218000000000
+AUSr108,World,AUS,Australia,Australian Capital Territory,   0.970916000000000
+AUTr101,World,AUT,Austria,Burgenland,   0.873248000000000
+AUTr102,World,AUT,Austria,Niederosterreich,   0.878244000000000
+AUTr103,World,AUT,Austria,Wien,   0.939604000000000
+AUTr104,World,AUT,Austria,Karnten,   0.898157000000000
+AUTr105,World,AUT,Austria,Steiermark,   0.908064000000000
+AUTr106,World,AUT,Austria,Oberosterreich,   0.904973000000000
+AUTr107,World,AUT,Austria,Salzburg,   0.934823000000000
+AUTr108,World,AUT,Austria,Tirol,   0.927805000000000
+AUTr109,World,AUT,Austria,Vorarlberg,   0.900440000000000
+AZEr101,World,AZE,Azerbaijan,Baku,   0.821687000000000
+AZEr102,World,AZE,Azerbaijan,Absheron,   0.797571000000000
+AZEr103,World,AZE,Azerbaijan,Ganja Gazakh,   0.718839000000000
+AZEr104,World,AZE,Azerbaijan,Shaki Zaqatala,   0.757158000000000
+AZEr105,World,AZE,Azerbaijan,Lankaran,   0.712850000000000
+AZEr106,World,AZE,Azerbaijan,Guba Khachmaz,   0.730732000000000
+AZEr107,World,AZE,Azerbaijan,Aran,   0.707711000000000
+AZEr108,World,AZE,Azerbaijan,Yukhari Karabakh,   0.702764000000000
+AZEr109,World,AZE,Azerbaijan,Dakhlik Shirvan,   0.721457000000000
+BDIr101,World,BDI,Burundi,"North (Kayanza, Kirundo, Muyinga, Ngozi)",   0.376394000000000
+BDIr102,World,BDI,Burundi,"South (Bururi, Makamba)",   0.455516000000000
+BDIr103,World,BDI,Burundi,"East (Cankuzo, Rutana, Ruyigi )",   0.405799000000000
+BDIr104,World,BDI,Burundi,"West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",   0.470571000000000
+BDIr105,World,BDI,Burundi,"Middle (Gitega, Karuzi, Muramvya, Mwaro)",   0.425523000000000
+BELr101,World,BEL,Belgium,Bruxelles - Brussel,   0.946450000000000
+BELr102,World,BEL,Belgium,Prov. Antwerpen,   0.930527000000000
+BELr103,World,BEL,Belgium,Prov. Limburg,   0.913273000000000
+BELr104,World,BEL,Belgium,Prov. Oost-Vlaanderen,   0.920684000000000
+BELr105,World,BEL,Belgium,Prov. Vlaams-Brabant,   0.937775000000000
+BELr106,World,BEL,Belgium,Prov. West-Vlaanderen,   0.922509000000000
+BELr107,World,BEL,Belgium,Prov. Brabant Wallon,   0.924734000000000
+BELr108,World,BEL,Belgium,Prov. Hainaut,   0.874404000000000
+BELr109,World,BEL,Belgium,Prov. Liege,   0.885979000000000
+BELr110,World,BEL,Belgium,Prov. Luxembourg,   0.885853000000000
+BELr111,World,BEL,Belgium,Prov. Namur,   0.890381000000000
+BENr101,World,BEN,Benin,Atacora (incl Donga),   0.480814000000000
+BENr102,World,BEN,Benin,Atlantique (incl Littoral (Cotonou)),   0.612534000000000
+BENr103,World,BEN,Benin,Borgou (incl Alibori),   0.433301000000000
+BENr104,World,BEN,Benin,Mono (incl Couffo),   0.518519000000000
+BENr105,World,BEN,Benin,Queme (incl Plateau),   0.548111000000000
+BENr106,World,BEN,Benin,Zou (incl Collines),   0.532232000000000
+BFAr101,World,BFA,Burkina Faso,Boucle de Mouhoun,   0.400997000000000
+BFAr102,World,BFA,Burkina Faso,Cascades,   0.444526000000000
+BFAr103,World,BFA,Burkina Faso,Centre (incl Ouagadougou),   0.620092000000000
+BFAr104,World,BFA,Burkina Faso,Centre-Est,   0.419532000000000
+BFAr105,World,BFA,Burkina Faso,Centre-Nord,   0.388001000000000
+BFAr106,World,BFA,Burkina Faso,Centre-Ouest,   0.438532000000000
+BFAr107,World,BFA,Burkina Faso,Centre-Sud,   0.439826000000000
+BFAr108,World,BFA,Burkina Faso,Est,   0.341092000000000
+BFAr109,World,BFA,Burkina Faso,Hauts Bassins,   0.477905000000000
+BFAr110,World,BFA,Burkina Faso,Nord,   0.419771000000000
+BFAr111,World,BFA,Burkina Faso,Plateau Central,   0.423780000000000
+BFAr112,World,BFA,Burkina Faso,Sahel,   0.275990000000000
+BFAr113,World,BFA,Burkina Faso,Sud-Ouest,   0.358134000000000
+BGDr201,World,BGD,Bangladesh,"Barisal, Jhalokati, Pirojpur",   0.670789000000000
+BGDr202,World,BGD,Bangladesh,"Barguna, Bhola, Patuakhali",   0.586081000000000
+BGDr203,World,BGD,Bangladesh,Chittagong,   0.647348000000000
+BGDr204,World,BGD,Bangladesh,"Bandarban, Cox s Bazar",   0.538398000000000
+BGDr205,World,BGD,Bangladesh,"Khagrachhari, Rangamati (Chattagram)",   0.592560000000000
+BGDr206,World,BGD,Bangladesh,"Feni, Lakshmipur, Noakhali",   0.595505000000000
+BGDr207,World,BGD,Bangladesh,"Brahmanbaria, Chandpur, Comilla",   0.630783000000000
+BGDr208,World,BGD,Bangladesh,Dhaka,   0.693530000000000
+BGDr209,World,BGD,Bangladesh,"Gazipur, Narayanganj, Narsingdi",   0.648010000000000
+BGDr210,World,BGD,Bangladesh,"Jamalpur, Sherpur, Tangail",   0.573664000000000
+BGDr211,World,BGD,Bangladesh,"Kishoreganj, Mymensingh, Netrakona",   0.561761000000000
+BGDr212,World,BGD,Bangladesh,"Faridpur, Manikganj, Rajbari",   0.594919000000000
+BGDr213,World,BGD,Bangladesh,"Gopalganj, Madaripur, Munshiganj, Shariatpur",   0.635930000000000
+BGDr214,World,BGD,Bangladesh,"Bagerhat, Khulna, Satkhira",   0.620631000000000
+BGDr215,World,BGD,Bangladesh,"Jessore, Magura, Narail",   0.623228000000000
+BGDr216,World,BGD,Bangladesh,"Chuadanga, Jhenaidah, Kushtia, Meherpur",   0.609527000000000
+BGDr217,World,BGD,Bangladesh,"Naogaon, Nawabganj, Rajshahi",   0.578179000000000
+BGDr218,World,BGD,Bangladesh,"Natore, Pabna, Sirajganj",   0.606969000000000
+BGDr219,World,BGD,Bangladesh,"Bogra, Gaibandha, Jaypurhat",   0.612923000000000
+BGDr220,World,BGD,Bangladesh,"Dinajpur, Nilphamari, Panchagarh, Thakurgaon",   0.614043000000000
+BGDr221,World,BGD,Bangladesh,"Kurigram, Lalmonirhat, Rangpur",   0.590834000000000
+BGDr222,World,BGD,Bangladesh,"Maulvibazar, Sylhet",   0.595798000000000
+BGDr223,World,BGD,Bangladesh,"Habiganj, Sunamganj",   0.535345000000000
+BGRr101,World,BGR,Bulgaria,Severozapaden,   0.758114000000000
+BGRr102,World,BGR,Bulgaria,Severen tsentralen,   0.793288000000000
+BGRr103,World,BGR,Bulgaria,Severoiztochen,   0.797993000000000
+BGRr104,World,BGR,Bulgaria,Yugoiztochen,   0.784346000000000
+BGRr105,World,BGR,Bulgaria,Yugozapaden,   0.870930000000000
+BGRr106,World,BGR,Bulgaria,Yuzhen tsentralen,   0.787695000000000
+BHRt,World, , , ,
+BHSt,World,BHS,Bahamas,Total,   0.805146000000000
+BIHr101,World,BIH,Bosnia and Herzegovina,Western Bosnia,   0.762730000000000
+BIHr102,World,BIH,Bosnia and Herzegovina,Northern Bosnia,   0.762854000000000
+BIHr103,World,BIH,Bosnia and Herzegovina,Central Bosnia,   0.770978000000000
+BIHr104,World,BIH,Bosnia and Herzegovina,Western herzegovina,   0.792680000000000
+BIHr105,World,BIH,Bosnia and Herzegovina,Republica Srpska,   0.767133000000000
+BLRr101,World,BLR,Belarus,Brest region,   0.812370000000000
+BLRr102,World,BLR,Belarus,Vitebsk region,   0.798661000000000
+BLRr103,World,BLR,Belarus,Gomel region,   0.810598000000000
+BLRr104,World,BLR,Belarus,Grodno region,   0.820506000000000
+BLRr105,World,BLR,Belarus,Minsk region,   0.834157000000000
+BLRr106,World,BLR,Belarus,Mogilev region,   0.796997000000000
+BLZr101,World,BLZ,Belize,"Corozal, Orange Walk",   0.690623000000000
+BLZr102,World,BLZ,Belize,Belize,   0.753250000000000
+BLZr103,World,BLZ,Belize,Cayo,   0.642468000000000
+BLZr104,World,BLZ,Belize,"Stann Creek, Toledo",   0.729940000000000
+BOLr101,World,BOL,Bolivia,Chuquisaca,   0.674241000000000
+BOLr102,World,BOL,Bolivia,La Paz,   0.704941000000000
+BOLr103,World,BOL,Bolivia,Cochabamba,   0.693273000000000
+BOLr104,World,BOL,Bolivia,Oruro,   0.710881000000000
+BOLr105,World,BOL,Bolivia,Potosi,   0.619268000000000
+BOLr106,World,BOL,Bolivia,Tarija,   0.724739000000000
+BOLr107,World,BOL,Bolivia,Santa Cruz,   0.759564000000000
+BOLr108,World,BOL,Bolivia,Beni,   0.708740000000000
+BOLr109,World,BOL,Bolivia,Pando,   0.727193000000000
+BRAr101,World,BRA,Brazil,Rondonia,   0.734510000000000
+BRAr102,World,BRA,Brazil,Acre,   0.715721000000000
+BRAr103,World,BRA,Brazil,Amazonas,   0.737378000000000
+BRAr104,World,BRA,Brazil,Roraima,   0.761457000000000
+BRAr105,World,BRA,Brazil,Para,   0.718943000000000
+BRAr106,World,BRA,Brazil,Amapa,   0.747709000000000
+BRAr107,World,BRA,Brazil,Tocantins,   0.749762000000000
+BRAr108,World,BRA,Brazil,Maranhao,   0.706051000000000
+BRAr109,World,BRA,Brazil,Piaui,   0.715253000000000
+BRAr110,World,BRA,Brazil,Ceara,   0.733147000000000
+BRAr111,World,BRA,Brazil,Rio Grande do Norte,   0.751098000000000
+BRAr112,World,BRA,Brazil,Paraiba,   0.736472000000000
+BRAr113,World,BRA,Brazil,Pernambuco,   0.737516000000000
+BRAr114,World,BRA,Brazil,Alagoas,   0.719395000000000
+BRAr115,World,BRA,Brazil,Sergipe,   0.747173000000000
+BRAr116,World,BRA,Brazil,Bahia,   0.735420000000000
+BRAr117,World,BRA,Brazil,Minas Gerais,   0.761150000000000
+BRAr118,World,BRA,Brazil,Espirito Santo,   0.764375000000000
+BRAr119,World,BRA,Brazil,Rio de Janeiro,   0.789571000000000
+BRAr120,World,BRA,Brazil,Sao Paulo,   0.786366000000000
+BRAr121,World,BRA,Brazil,Parana,   0.770463000000000
+BRAr122,World,BRA,Brazil,Santa Catarina,   0.775230000000000
+BRAr123,World,BRA,Brazil,Rio Grande do Sul,   0.775977000000000
+BRAr124,World,BRA,Brazil,Mato Grosso do Sul,   0.764312000000000
+BRAr125,World,BRA,Brazil,Mato Grosso,   0.757792000000000
+BRAr126,World,BRA,Brazil,Goias,   0.767676000000000
+BRAr127,World,BRA,Brazil,Distrito Federal,   0.821552000000000
+BRBr101,World,BRB,Barbados,St Michael,   0.804964000000000
+BRBr102,World,BRB,Barbados,Christ Church and St. Philip,   0.820456000000000
+BRBr103,World,BRB,Barbados,"St. James, St. George, and St. Thomas",   0.826329000000000
+BRBr104,World,BRB,Barbados,"St. Lucy, St. Peter, St. Andrew, St. Joseph, and St. John",   0.804961000000000
+BRNt,World,BRN,Brunei Darussalam,Total,   0.844589000000000
+BTNr101,World,BTN,Bhutan,Bumthang,   0.623860000000000
+BTNr102,World,BTN,Bhutan,Chukha,   0.643339000000000
+BTNr103,World,BTN,Bhutan,Dagana,   0.573886000000000
+BTNr104,World,BTN,Bhutan,Gasa,   0.507316000000000
+BTNr105,World,BTN,Bhutan,Haa,   0.661630000000000
+BTNr106,World,BTN,Bhutan,Lhuntse,   0.573936000000000
+BTNr107,World,BTN,Bhutan,Mongar,   0.571617000000000
+BTNr108,World,BTN,Bhutan,Paro,   0.678659000000000
+BTNr109,World,BTN,Bhutan,Pemagatshel,   0.580221000000000
+BTNr110,World,BTN,Bhutan,Punakha,   0.616870000000000
+BTNr111,World,BTN,Bhutan,Samdrup jongkhar,   0.582650000000000
+BTNr112,World,BTN,Bhutan,Samtse,   0.586826000000000
+BTNr113,World,BTN,Bhutan,Sarpang,   0.643165000000000
+BTNr114,World,BTN,Bhutan,Thimphu,   0.749609000000000
+BTNr115,World,BTN,Bhutan,Trashigang,   0.549986000000000
+BTNr116,World,BTN,Bhutan,Trashiyangtse,   0.557750000000000
+BTNr117,World,BTN,Bhutan,Trongsa,   0.581607000000000
+BTNr118,World,BTN,Bhutan,Tsirang,   0.595213000000000
+BTNr119,World,BTN,Bhutan,Wangdi,   0.571996000000000
+BTNr120,World,BTN,Bhutan,Zhemgang,   0.571597000000000
+BWAr101,World,BWA,Botswana,Central,   0.705013000000000
+BWAr102,World,BWA,Botswana,Ghanzi,   0.675923000000000
+BWAr103,World,BWA,Botswana,Kgalagadi,   0.694049000000000
+BWAr104,World,BWA,Botswana,Kgatleng,   0.742123000000000
+BWAr105,World,BWA,Botswana,Kweneng,   0.712167000000000
+BWAr106,World,BWA,Botswana,North-East,   0.745456000000000
+BWAr107,World,BWA,Botswana,"North-West, Ngamiland",   0.691000000000000
+BWAr108,World,BWA,Botswana,South-East,   0.806538000000000
+BWAr109,World,BWA,Botswana,Southern,   0.710912000000000
+BWAr110,World,BWA,Botswana,Chobe,   0.701180000000000
+CAFr101,World,CAF,Central African Republic CAR,"RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi)",   0.378112000000000
+CAFr102,World,CAF,Central African Republic CAR,"RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)",   0.342487000000000
+CAFr103,World,CAF,Central African Republic CAR,"RS III (Ouham Pende, Ouham)",   0.339269000000000
+CAFr104,World,CAF,Central African Republic CAR,"RS IV (Ouaka, Haute-Kotto, Baminigui Bangoran, Vakaga)",   0.355396000000000
+CAFr105,World,CAF,Central African Republic CAR,"RS V (Basse Kotto, Mbornou, Houte Mbormou)",   0.324724000000000
+CAFr106,World,CAF,Central African Republic CAR,Bangui,   0.513310000000000
+CANr101,World,CAN,Canada,Newfoundland and Labrador,   0.884658000000000
+CANr102,World,CAN,Canada,"Prince Edward Island, Yukon Territory, Northwest Territories, Nunavut",   0.908407000000000
+CANr103,World,CAN,Canada,Nova Scotia,   0.894556000000000
+CANr104,World,CAN,Canada,New Brunswick,   0.888900000000000
+CANr105,World,CAN,Canada,Quebec,   0.908123000000000
+CANr106,World,CAN,Canada,Ontario,   0.928615000000000
+CANr107,World,CAN,Canada,Manitoba,   0.896174000000000
+CANr108,World,CAN,Canada,Saskatchewan,   0.911980000000000
+CANr109,World,CAN,Canada,Alberta,   0.940907000000000
+CANr110,World,CAN,Canada,British Columbia,   0.929656000000000
+CHEr101,World,CHE,Switzerland,Lake Geneva region,   0.949104000000000
+CHEr102,World,CHE,Switzerland,Espace Mittelland,   0.933889000000000
+CHEr103,World,CHE,Switzerland,Northwestern Switzerland,   0.939130000000000
+CHEr104,World,CHE,Switzerland,Zurich,   0.977191000000000
+CHEr105,World,CHE,Switzerland,Eastern Switzerland,   0.923609000000000
+CHEr106,World,CHE,Switzerland,Central Switzerland,   0.939138000000000
+CHEr107,World,CHE,Switzerland,Ticino,   0.947578000000000
+CHLr101,World,CHL,Chili,Tarapaca (incl Arica and Parinacota),   0.862234000000000
+CHLr102,World,CHL,Chili,Antofagasta,   0.859578000000000
+CHLr103,World,CHL,Chili,Atacama,   0.835893000000000
+CHLr104,World,CHL,Chili,Coquimbo,   0.811490000000000
+CHLr105,World,CHL,Chili,Valparaiso (former Aconcagua),   0.848165000000000
+CHLr106,World,CHL,Chili,OHiggins,   0.802186000000000
+CHLr107,World,CHL,Chili,Maule,   0.773693000000000
+CHLr108,World,CHL,Chili,Bio Bio,   0.807277000000000
+CHLr109,World,CHL,Chili,Arbucania,   0.769763000000000
+CHLr110,World,CHL,Chili,Los Lagos (incl Los Rios),   0.777347000000000
+CHLr111,World,CHL,Chili,Aisen,   0.790245000000000
+CHLr112,World,CHL,Chili,Magallanes and La Antartica Chilena,   0.846004000000000
+CHLr113,World,CHL,Chili,Region Metropolitana,   0.862893000000000
+CHNr101,World,CHN,China,Beijing,   0.894153000000000
+CHNr102,World,CHN,China,Tianjin,   0.850197000000000
+CHNr103,World,CHN,China,Hebei,   0.737089000000000
+CHNr104,World,CHN,China,Shanxi,   0.750223000000000
+CHNr105,World,CHN,China,Inner Mongolia,   0.773815000000000
+CHNr106,World,CHN,China,Liaoning,   0.778481000000000
+CHNr107,World,CHN,China,Jilin,   0.766316000000000
+CHNr108,World,CHN,China,Heilongjiang,   0.747935000000000
+CHNr109,World,CHN,China,Shanghai,   0.866268000000000
+CHNr110,World,CHN,China,Jiangsu,   0.801194000000000
+CHNr111,World,CHN,China,Zhejiang,   0.788130000000000
+CHNr112,World,CHN,China,Anhui,   0.723570000000000
+CHNr113,World,CHN,China,Fujian,   0.764782000000000
+CHNr114,World,CHN,China,Jiangxi,   0.727730000000000
+CHNr115,World,CHN,China,Shandong,   0.765150000000000
+CHNr116,World,CHN,China,Henan,   0.732047000000000
+CHNr117,World,CHN,China,Hubei,   0.761522000000000
+CHNr118,World,CHN,China,Hunan,   0.751185000000000
+CHNr119,World,CHN,China,Guangdong,   0.790681000000000
+CHNr120,World,CHN,China,Guangxi,   0.727307000000000
+CHNr121,World,CHN,China,Hainan,   0.749931000000000
+CHNr122,World,CHN,China,Chongqing,   0.758759000000000
+CHNr123,World,CHN,China,Sichuan,   0.715922000000000
+CHNr124,World,CHN,China,Guizhou,   0.679704000000000
+CHNr125,World,CHN,China,Yunnan,   0.671626000000000
+CHNr126,World,CHN,China,Tibet,   0.585068000000000
+CHNr127,World,CHN,China,Shaanxi,   0.756659000000000
+CHNr128,World,CHN,China,Gansu,   0.691160000000000
+CHNr129,World,CHN,China,Qinghai,   0.684446000000000
+CHNr130,World,CHN,China,Ningxia,   0.745098000000000
+CHNr131,World,CHN,China,Xinjiang,   0.731289000000000
+CHNr132,World,CHN,China,Hongkong,   0.944211000000000
+CIVr101,World,CIV,Cote d'Ivoire,Centre,   0.489231000000000
+CIVr102,World,CIV,Cote d'Ivoire,Centre Est,   0.517188000000000
+CIVr103,World,CIV,Cote d'Ivoire,Centre Nord,   0.529045000000000
+CIVr104,World,CIV,Cote d'Ivoire,Centre Ouest,   0.515471000000000
+CIVr105,World,CIV,Cote d'Ivoire,Nord,   0.397615000000000
+CIVr106,World,CIV,Cote d'Ivoire,Nord Est,   0.449965000000000
+CIVr107,World,CIV,Cote d'Ivoire,Nord Ouest,   0.396008000000000
+CIVr108,World,CIV,Cote d'Ivoire,Ouest,   0.459262000000000
+CIVr109,World,CIV,Cote d'Ivoire,"Sud, Abidjan",   0.592401000000000
+CIVr110,World,CIV,Cote d'Ivoire,Sud Ouest,   0.473772000000000
+CMRr101,World,CMR,Cameroon,Adamaoua,   0.508561000000000
+CMRr102,World,CMR,Cameroon,Centre (incl Yaounde),   0.658010000000000
+CMRr103,World,CMR,Cameroon,Est,   0.551636000000000
+CMRr104,World,CMR,Cameroon,Extreme Nord,   0.411981000000000
+CMRr105,World,CMR,Cameroon,Littoral (incl Douala),   0.671248000000000
+CMRr106,World,CMR,Cameroon,Nord,   0.442833000000000
+CMRr107,World,CMR,Cameroon,Nord Ouest,   0.598977000000000
+CMRr108,World,CMR,Cameroon,Ouest,   0.604891000000000
+CMRr109,World,CMR,Cameroon,Sud,   0.608639000000000
+CMRr110,World,CMR,Cameroon,Sud Ouest,   0.602490000000000
+CODr101,World,COD,Congo Democratic Republic,Kinshasa,   0.607215000000000
+CODr102,World,COD,Congo Democratic Republic,Bas-Congo,   0.455019000000000
+CODr103,World,COD,Congo Democratic Republic,Bandundu,   0.460375000000000
+CODr104,World,COD,Congo Democratic Republic,Equateur,   0.426728000000000
+CODr105,World,COD,Congo Democratic Republic,Orientale,   0.431275000000000
+CODr106,World,COD,Congo Democratic Republic,Nord-Kivu,   0.455829000000000
+CODr107,World,COD,Congo Democratic Republic,Sud-Kivu,   0.414630000000000
+CODr108,World,COD,Congo Democratic Republic,Maniema,   0.452404000000000
+CODr109,World,COD,Congo Democratic Republic,Katanga,   0.457552000000000
+CODr110,World,COD,Congo Democratic Republic,Kasai Oriental,   0.448734000000000
+CODr111,World,COD,Congo Democratic Republic,Kasai Occidental,   0.425834000000000
+COGr201,World,COG,Congo Brazzaville,Kouilou,   0.498890000000000
+COGr202,World,COG,Congo Brazzaville,Niari,   0.566509000000000
+COGr203,World,COG,Congo Brazzaville,Lekoumou,   0.500715000000000
+COGr204,World,COG,Congo Brazzaville,Bouenza,   0.529653000000000
+COGr205,World,COG,Congo Brazzaville,Pool,   0.483986000000000
+COGr206,World,COG,Congo Brazzaville,Plateaux,   0.541936000000000
+COGr207,World,COG,Congo Brazzaville,Cuvette,   0.579525000000000
+COGr208,World,COG,Congo Brazzaville,Cuvette Ouest,   0.513796000000000
+COGr209,World,COG,Congo Brazzaville,Sangha,   0.519376000000000
+COGr210,World,COG,Congo Brazzaville,Likouala,   0.526807000000000
+COGr211,World,COG,Congo Brazzaville,Brazzaville,   0.662145000000000
+COGr212,World,COG,Congo Brazzaville,Pointe Noire,   0.650046000000000
+COLr101,World,COL,Colombia,Antioquia (incl Medellin),   0.765264000000000
+COLr102,World,COL,Colombia,Atlantico (incl Barranquilla),   0.778924000000000
+COLr103,World,COL,Colombia,Bogota D.C.,   0.805869000000000
+COLr104,World,COL,Colombia,Bolivar (Sur and Norte),   0.749512000000000
+COLr105,World,COL,Colombia,Boyaca,   0.754124000000000
+COLr106,World,COL,Colombia,Caldas,   0.771883000000000
+COLr107,World,COL,Colombia,Caqueta,   0.711986000000000
+COLr108,World,COL,Colombia,Cauca,   0.713505000000000
+COLr109,World,COL,Colombia,Cesar,   0.723555000000000
+COLr110,World,COL,Colombia,Cordoba,   0.711752000000000
+COLr111,World,COL,Colombia,Cundinamarca,   0.766105000000000
+COLr112,World,COL,Colombia,Choco,   0.692075000000000
+COLr113,World,COL,Colombia,Huila,   0.718735000000000
+COLr114,World,COL,Colombia,Guajira,   0.693543000000000
+COLr115,World,COL,Colombia,Magdalena,   0.721004000000000
+COLr116,World,COL,Colombia,Meta,   0.770042000000000
+COLr117,World,COL,Colombia,Narino,   0.716386000000000
+COLr118,World,COL,Colombia,Norte de Santander,   0.742929000000000
+COLr119,World,COL,Colombia,Quindio,   0.776871000000000
+COLr120,World,COL,Colombia,Risaralda,   0.756206000000000
+COLr121,World,COL,Colombia,Santander,   0.772693000000000
+COLr122,World,COL,Colombia,Sucre,   0.735957000000000
+COLr123,World,COL,Colombia,Tolima,   0.741005000000000
+COLr124,World,COL,Colombia,Valle (incl Cali),   0.783692000000000
+COLr125,World,COL,Colombia,Arauca,   0.734774000000000
+COLr126,World,COL,Colombia,Casanare,   0.743376000000000
+COLr127,World,COL,Colombia,Putumayo,   0.713111000000000
+COLr128,World,COL,Colombia,San Andres,   0.781660000000000
+COLr129,World,COL,Colombia,Amazonas,   0.711871000000000
+COLr130,World,COL,Colombia,Guainja,   0.664631000000000
+COLr131,World,COL,Colombia,Guaviare,   0.748913000000000
+COLr132,World,COL,Colombia,Vaupis,   0.635482000000000
+COLr133,World,COL,Colombia,Vichada,   0.746765000000000
+COMr101,World,COM,Comoros,Grande Comore (Ngazidja),   0.555500000000000
+COMr102,World,COM,Comoros,Moheli,   0.535467000000000
+COMr103,World,COM,Comoros,Anjouan (Ndzouani),   0.519151000000000
+CPVr101,World,CPV,Cape Verde,S.Antao,   0.631562000000000
+CPVr102,World,CPV,Cape Verde,S.Vicente,   0.675494000000000
+CPVr103,World,CPV,Cape Verde,Santiago-Interior,   0.595125000000000
+CPVr104,World,CPV,Cape Verde,Santiago- Praia,   0.685710000000000
+CPVr105,World,CPV,Cape Verde,Fogo,   0.656684000000000
+CRIr101,World,CRI,Costa Rica,San Jose,   0.808219000000000
+CRIr102,World,CRI,Costa Rica,Alajuela,   0.794704000000000
+CRIr103,World,CRI,Costa Rica,Cartago,   0.804238000000000
+CRIr104,World,CRI,Costa Rica,Heredia,   0.824113000000000
+CRIr105,World,CRI,Costa Rica,Guanacaste,   0.772766000000000
+CRIr106,World,CRI,Costa Rica,Puntarenas,   0.756925000000000
+CRIr107,World,CRI,Costa Rica,Limon,   0.751956000000000
+CUBr101,World,CUB,Cuba,Occidente,   0.778466000000000
+CUBr102,World,CUB,Cuba,Ciudad Habana,   0.804325000000000
+CUBr103,World,CUB,Cuba,Centro,   0.770217000000000
+CUBr104,World,CUB,Cuba,Oriente,   0.770758000000000
+CYPt,World,CYP,Cyprus,Total,   0.872885000000000
+CZEr102,World,CZE,Czech Republic,Stredni Cechy,   0.848318000000000
+CZEr103,World,CZE,Czech Republic,Jihozapad,   0.879274000000000
+CZEr104,World,CZE,Czech Republic,Severozapad,   0.835708000000000
+CZEr105,World,CZE,Czech Republic,Severovychod,   0.869675000000000
+CZEr106,World,CZE,Czech Republic,Jihovychod,   0.902724000000000
+CZEr107,World,CZE,Czech Republic,Stredni Morava,   0.873198000000000
+CZEr108,World,CZE,Czech Republic,Moravskoslezsko,   0.868436000000000
+DEUr101,World,DEU,Germany,Baden-Wurttemberg,   0.953332000000000
+DEUr102,World,DEU,Germany,Bayern,   0.945968000000000
+DEUr103,World,DEU,Germany,Berlin,   0.950224000000000
+DEUr104,World,DEU,Germany,Brandenburg,   0.912999000000000
+DEUr105,World,DEU,Germany,Bremen,   0.952149000000000
+DEUr106,World,DEU,Germany,Hamburg,   0.975038000000000
+DEUr107,World,DEU,Germany,Hessen,   0.949333000000000
+DEUr108,World,DEU,Germany,Mecklenburg-Vorpommern,   0.909200000000000
+DEUr109,World,DEU,Germany,Niedersachsen,   0.921279000000000
+DEUr110,World,DEU,Germany,Nordrhein-Westfalen,   0.935968000000000
+DEUr111,World,DEU,Germany,Rheinland-Pfalz,   0.928257000000000
+DEUr112,World,DEU,Germany,Saarland,   0.931239000000000
+DEUr113,World,DEU,Germany,Sachsen,   0.930759000000000
+DEUr114,World,DEU,Germany,Sachsen-Anhalt,   0.908305000000000
+DEUr115,World,DEU,Germany,Schleswig-Holstein,   0.919534000000000
+DEUr116,World,DEU,Germany,Thuringen,   0.920574000000000
+DJIr101,World,DJI,Djibouti,Djibouti,   0.502542000000000
+DJIr102,World,DJI,Djibouti,Other Districts,   0.445177000000000
+DMAt,World,DMA,Dominica,Total,   0.724150000000000
+DNKr101,World,DNK,Denmark,Hovedstaden,   0.950830000000000
+DNKr102,World,DNK,Denmark,Sjaelland,   0.903163000000000
+DNKr103,World,DNK,Denmark,Syddanmark,   0.923235000000000
+DNKr104,World,DNK,Denmark,Midtjylland,   0.927585000000000
+DNKr105,World,DNK,Denmark,Nordjylland,   0.913934000000000
+DOMr101,World,DOM,Dominican Republic,"Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",   0.763976000000000
+DOMr102,World,DOM,Dominican Republic,"Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",   0.744082000000000
+DOMr103,World,DOM,Dominican Republic,"Region II (Espaillat, Puerto Plata, Santiago)",   0.754146000000000
+DOMr104,World,DOM,Dominican Republic,"Region III (Duarte, Maria Trinidad Sanchez, Salcedo, Samana)",   0.745414000000000
+DOMr105,World,DOM,Dominican Republic,"Region IV (Independencia, Bahoruco, Barahona, Pedernales)",   0.705916000000000
+DOMr106,World,DOM,Dominican Republic,"Region V (El Seibo, La Altagracia, La Romana, San Pedro de Macoris, Hato Mayor)",   0.728875000000000
+DOMr107,World,DOM,Dominican Republic,"Region VI (San Juan, Elias Pina)",   0.696664000000000
+DOMr108,World,DOM,Dominican Republic,"Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)",   0.694313000000000
+DOMr109,World,DOM,Dominican Republic,"Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)",   0.737036000000000
+DZAr101,World,DZA,Algeria,"Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Bejaia, Chlef, Ain Defla)",   0.771791000000000
+DZAr102,World,DZA,Algeria,"Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)",   0.778039000000000
+DZAr103,World,DZA,Algeria,"Nord Ouest (Oran, Tlemcen, Mostaganem, Ain Temouchent, Relizane, Sidi Bel Abbes, Mascara)",   0.745573000000000
+DZAr104,World,DZA,Algeria,"Hauts Plateaux Centre (Djelfa, Laghouat, MSila)",   0.724767000000000
+DZAr105,World,DZA,Algeria,"Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)",   0.758983000000000
+DZAr106,World,DZA,Algeria,"Hauts Plateaux Ouest (Tiaret, Saida, Tissemsilt, Naama, El Bayadh)",   0.736582000000000
+DZAr107,World,DZA,Algeria,"Sud (Bechar, Tindouf, Adrar, Ghardaia, Biskra, El Oued, Ouargla, Tamanrasset,Illizi)",   0.749353000000000
+ECUr101,World,ECU,Ecuador,Coste,   0.756182000000000
+ECUr102,World,ECU,Ecuador,Sierra,   0.771955000000000
+ECUr103,World,ECU,Ecuador,Oriente,   0.721782000000000
+EGYr101,World,EGY,Egypt,Cairo,   0.742961000000000
+EGYr102,World,EGY,Egypt,Alexandria,   0.745165000000000
+EGYr103,World,EGY,Egypt,Port Said,   0.759989000000000
+EGYr104,World,EGY,Egypt,Suez,   0.747418000000000
+EGYr105,World,EGY,Egypt,Damietta,   0.723421000000000
+EGYr106,World,EGY,Egypt,Dakahlia,   0.715746000000000
+EGYr107,World,EGY,Egypt,Sharkia,   0.698965000000000
+EGYr108,World,EGY,Egypt,Kalyubia,   0.703751000000000
+EGYr109,World,EGY,Egypt,Kafr El-Sheikh,   0.705533000000000
+EGYr110,World,EGY,Egypt,Gharbia,   0.710370000000000
+EGYr111,World,EGY,Egypt,Menoufia,   0.718472000000000
+EGYr112,World,EGY,Egypt,Behera,   0.687867000000000
+EGYr113,World,EGY,Egypt,Ismailia,   0.713288000000000
+EGYr114,World,EGY,Egypt,Giza,   0.700720000000000
+EGYr115,World,EGY,Egypt,Beni Suef,   0.668338000000000
+EGYr116,World,EGY,Egypt,Fayoum,   0.672850000000000
+EGYr117,World,EGY,Egypt,Menya,   0.664361000000000
+EGYr118,World,EGY,Egypt,Assuit,   0.649018000000000
+EGYr119,World,EGY,Egypt,Souhag,   0.658721000000000
+EGYr120,World,EGY,Egypt,Qena,   0.679964000000000
+EGYr121,World,EGY,Egypt,Aswan,   0.692479000000000
+EGYr122,World,EGY,Egypt,"Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)",   0.704083000000000
+ERIr101,World,ERI,Eritrea,Debubawi Keyih Bahri (Southern Red Sea),   0.440123000000000
+ERIr102,World,ERI,Eritrea,Maekel (Central including Asmara),   0.597003000000000
+ERIr103,World,ERI,Eritrea,Semenawi Keyih Bahri (Northern Red Sea),   0.351499000000000
+ERIr104,World,ERI,Eritrea,Anseba,   0.390157000000000
+ERIr105,World,ERI,Eritrea,Gash Barka,   0.323548000000000
+ERIr106,World,ERI,Eritrea,Debub (Southern),   0.411343000000000
+ESPr101,World,ESP,Spain,Galicia,   0.886033000000000
+ESPr102,World,ESP,Spain,Principado de Asturias,   0.887099000000000
+ESPr103,World,ESP,Spain,Cantabria,   0.890251000000000
+ESPr104,World,ESP,Spain,Pais Vasco,   0.921215000000000
+ESPr105,World,ESP,Spain,Comunidad Foral de Navarra,   0.912316000000000
+ESPr106,World,ESP,Spain,La Rioja,   0.901658000000000
+ESPr107,World,ESP,Spain,Aragon,   0.898297000000000
+ESPr108,World,ESP,Spain,Comunidad de Madrid,   0.927635000000000
+ESPr109,World,ESP,Spain,Castilla y Leon,   0.894819000000000
+ESPr110,World,ESP,Spain,Castilla-la Mancha,   0.858937000000000
+ESPr111,World,ESP,Spain,Extremadura,   0.852518000000000
+ESPr112,World,ESP,Spain,Cataluna,   0.906863000000000
+ESPr113,World,ESP,Spain,Comunidad Valenciana,   0.880688000000000
+ESPr114,World,ESP,Spain,Illes Balears,   0.862665000000000
+ESPr115,World,ESP,Spain,Andalucia,   0.862463000000000
+ESPr116,World,ESP,Spain,Region de Murcia,   0.873739000000000
+ESPr119,World,ESP,Spain,Canarias,   0.861149000000000
+ESTr101,World,EST,Estonia,Pohja-Eesti,   0.922306000000000
+ESTr102,World,EST,Estonia,Laane-Eesti,   0.838052000000000
+ESTr103,World,EST,Estonia,Kesk-Eesti,   0.820687000000000
+ESTr104,World,EST,Estonia,Kirde-Eesti,   0.838946000000000
+ESTr105,World,EST,Estonia,Louna-Eesti,   0.856212000000000
+ETHr101,World,ETH,Ethiopia,Tigray,   0.490767000000000
+ETHr102,World,ETH,Ethiopia,Affar,   0.417471000000000
+ETHr103,World,ETH,Ethiopia,Amhara,   0.449417000000000
+ETHr104,World,ETH,Ethiopia,Oromiya,   0.454941000000000
+ETHr105,World,ETH,Ethiopia,Somali,   0.420412000000000
+ETHr106,World,ETH,Ethiopia,Ben-Gumz,   0.462407000000000
+ETHr107,World,ETH,Ethiopia,SNNP,   0.473291000000000
+ETHr108,World,ETH,Ethiopia,Gambela,   0.547956000000000
+ETHr109,World,ETH,Ethiopia,Harari,   0.568811000000000
+ETHr110,World,ETH,Ethiopia,Addis,   0.697035000000000
+ETHr111,World,ETH,Ethiopia,Dire Dawa,   0.553080000000000
+FINr101,World,FIN,Finland,Lansi-Suomi,   0.919009000000000
+FINr102,World,FIN,Finland,Helsinki-Uusimaa,   0.945903000000000
+FINr103,World,FIN,Finland,Etela-Suomi,   0.915061000000000
+FINr104,World,FIN,Finland,Pohjois-ja Ita-Suomi,   0.910002000000000
+FINr105,World,FIN,Finland,Aland,   0.912185000000000
+FRAr101,World,FRA,France,Ile de France,   0.938138000000000
+FRAr102,World,FRA,France,Champagne-Ardenne,   0.862053000000000
+FRAr103,World,FRA,France,Picardie,   0.847799000000000
+FRAr104,World,FRA,France,Haute-Normandie,   0.866811000000000
+FRAr105,World,FRA,France,Centre,   0.869039000000000
+FRAr106,World,FRA,France,Basse-Normandie,   0.863182000000000
+FRAr107,World,FRA,France,Bourgogne,   0.867271000000000
+FRAr108,World,FRA,France,Nord,   0.863728000000000
+FRAr109,World,FRA,France,Lorraine,   0.869935000000000
+FRAr110,World,FRA,France,Alsace,   0.885024000000000
+FRAr111,World,FRA,France,Franche-Comte,   0.871529000000000
+FRAr112,World,FRA,France,Pays de la Loire,   0.884250000000000
+FRAr113,World,FRA,France,Bretagne,   0.882430000000000
+FRAr114,World,FRA,France,Poitou-Charentes,   0.870432000000000
+FRAr115,World,FRA,France,Aquitaine,   0.885896000000000
+FRAr116,World,FRA,France,Midi-Pyrenees,   0.895633000000000
+FRAr117,World,FRA,France,Limousin,   0.872283000000000
+FRAr118,World,FRA,France,Rhone-Alpes,   0.900857000000000
+FRAr119,World,FRA,France,Auvergne,   0.871425000000000
+FRAr120,World,FRA,France,Languedoc-Roussillon,   0.873177000000000
+FRAr121,World,FRA,France,Provence-Alpes-Cote dAzur,   0.890582000000000
+FRAr122,World,FRA,France,Corse,   0.862915000000000
+FRAr127,World,FRA,France,French Guyana,   0.789357000000000
+FRAr129,World,FRA,France,Mayotte,   0.781143000000000
+FSMt,World,FSM,Micronesia (Federated States o,Total,   0.613341000000000
+GABr101,World,GAB,Gabon,Estuaire,   0.688940000000000
+GABr102,World,GAB,Gabon,Haut Ogooue,   0.682690000000000
+GABr103,World,GAB,Gabon,Moyen Ogooue,   0.656261000000000
+GABr104,World,GAB,Gabon,Ngounie,   0.622308000000000
+GABr105,World,GAB,Gabon,Nyanga,   0.639093000000000
+GABr106,World,GAB,Gabon,Ogooue Ivindo,   0.599908000000000
+GABr107,World,GAB,Gabon,Ogooue Lolo,   0.633453000000000
+GABr108,World,GAB,Gabon,Ogooue Maritime,   0.649425000000000
+GABr109,World,GAB,Gabon,Woleu Ntem,   0.645480000000000
+GBRr101,World,GBR,United Kingdom,North East,   0.895170000000000
+GBRr102,World,GBR,United Kingdom,North West,   0.907496000000000
+GBRr103,World,GBR,United Kingdom,Yorkshire and The Humber,   0.901585000000000
+GBRr104,World,GBR,United Kingdom,East Midlands,   0.906842000000000
+GBRr105,World,GBR,United Kingdom,West Midlands,   0.903323000000000
+GBRr106,World,GBR,United Kingdom,East of England,   0.910135000000000
+GBRr107,World,GBR,United Kingdom,London,   0.966134000000000
+GBRr108,World,GBR,United Kingdom,South East,   0.932128000000000
+GBRr109,World,GBR,United Kingdom,South West,   0.917900000000000
+GBRr110,World,GBR,United Kingdom,Wales,   0.884092000000000
+GBRr111,World,GBR,United Kingdom,Scotland,   0.912853000000000
+GBRr112,World,GBR,United Kingdom,Northern Ireland,   0.886623000000000
+GEOr102,World,GEO,Georgia,Ajaria,   0.785744000000000
+GEOr103,World,GEO,Georgia,Guria,   0.779487000000000
+GEOr104,World,GEO,Georgia,Imereti,   0.773102000000000
+GEOr105,World,GEO,Georgia,Kakheti,   0.759360000000000
+GEOr106,World,GEO,Georgia,Kvemo Kartli,   0.737343000000000
+GEOr107,World,GEO,Georgia,Mtskheta-Mtianeti,   0.752002000000000
+GEOr108,World,GEO,Georgia,Racha-Lochkhumi-Kvemo Svaneti,   0.735463000000000
+GEOr109,World,GEO,Georgia,Samegrelo-Zemo Svateni,   0.761873000000000
+GEOr110,World,GEO,Georgia,Samtskhe-Javakheti,   0.744222000000000
+GEOr111,World,GEO,Georgia,Shida Kartli,   0.748136000000000
+GEOr112,World,GEO,Georgia,Tbilisi,   0.864533000000000
+GHAr101,World,GHA,Ghana,Western,   0.622694000000000
+GHAr102,World,GHA,Ghana,Central,   0.552450000000000
+GHAr103,World,GHA,Ghana,Greater Accra,   0.660756000000000
+GHAr104,World,GHA,Ghana,Volta,   0.595170000000000
+GHAr105,World,GHA,Ghana,Eastern,   0.592429000000000
+GHAr106,World,GHA,Ghana,Ashanti,   0.607451000000000
+GHAr107,World,GHA,Ghana,Brong Ahafo,   0.584712000000000
+GHAr108,World,GHA,Ghana,Northern,   0.503500000000000
+GHAr109,World,GHA,Ghana,Upper West,   0.526835000000000
+GHAr110,World,GHA,Ghana,Upper East,   0.523864000000000
+GINr101,World,GIN,Guinea,Boke,   0.442509000000000
+GINr102,World,GIN,Guinea,Conakry,   0.655283000000000
+GINr103,World,GIN,Guinea,Faranah,   0.404665000000000
+GINr104,World,GIN,Guinea,Kankan,   0.392609000000000
+GINr105,World,GIN,Guinea,Kindia,   0.457775000000000
+GINr106,World,GIN,Guinea,Labe,   0.394089000000000
+GINr107,World,GIN,Guinea,Mamou,   0.427493000000000
+GINr108,World,GIN,Guinea,N Zerekore,   0.448237000000000
+GMBr101,World,GMB,Gambia,Banjul,   0.556240000000000
+GMBr102,World,GMB,Gambia,Kanifing,   0.541913000000000
+GMBr103,World,GMB,Gambia,Brikama,   0.498606000000000
+GMBr104,World,GMB,Gambia,Mansakonko,   0.433005000000000
+GMBr105,World,GMB,Gambia,Kerewan,   0.413076000000000
+GMBr106,World,GMB,Gambia,Kuntaur,   0.331893000000000
+GMBr107,World,GMB,Gambia,Janjabureh,   0.399209000000000
+GMBr108,World,GMB,Gambia,Basse,   0.352471000000000
+GNBr101,World,GNB,Guinea Bissau,Tombali,   0.419859000000000
+GNBr102,World,GNB,Guinea Bissau,Quinara,   0.436747000000000
+GNBr103,World,GNB,Guinea Bissau,Oio,   0.428066000000000
+GNBr104,World,GNB,Guinea Bissau,Biombo,   0.467226000000000
+GNBr105,World,GNB,Guinea Bissau,Bolama,   0.440621000000000
+GNBr106,World,GNB,Guinea Bissau,Bafata,   0.366052000000000
+GNBr107,World,GNB,Guinea Bissau,Gabu,   0.344076000000000
+GNBr108,World,GNB,Guinea Bissau,Cacheu,   0.452107000000000
+GNBr109,World,GNB,Guinea Bissau,Bissau,   0.550853000000000
+GNQr101,World,GNQ,Equatorial Guinea,"Annobon, Bioko",   0.708310000000000
+GNQr102,World,GNQ,Equatorial Guinea,Centro Sur,   0.502828000000000
+GNQr103,World,GNQ,Equatorial Guinea,Kie Ntem,   0.527584000000000
+GNQr104,World,GNQ,Equatorial Guinea,Litoral,   0.624525000000000
+GNQr105,World,GNQ,Equatorial Guinea,Wele Nzas,   0.484837000000000
+GRCr101,World,GRC,Greece,Attiki,   0.895550000000000
+GRCr102,World,GRC,Greece,Voreio Aigaio,   0.860484000000000
+GRCr103,World,GRC,Greece,Notio Aigaio,   0.831741000000000
+GRCr104,World,GRC,Greece,Kriti,   0.869772000000000
+GRCr105,World,GRC,Greece,"Anatoliki Makedonia, Thraki",   0.834505000000000
+GRCr106,World,GRC,Greece,Kentriki Makedonia,   0.860903000000000
+GRCr107,World,GRC,Greece,Dytiki Makedonia,   0.867686000000000
+GRCr108,World,GRC,Greece,Ipeiros,   0.865206000000000
+GRCr109,World,GRC,Greece,Thessalia,   0.849992000000000
+GRCr110,World,GRC,Greece,Ionia Nisia,   0.865232000000000
+GRCr111,World,GRC,Greece,Dytiki Ellada,   0.852167000000000
+GRCr112,World,GRC,Greece,Sterea Ellada,   0.835742000000000
+GRCr113,World,GRC,Greece,Peloponnisos,   0.837254000000000
+GRDt,World,GRD,Grenada,Total,   0.763377000000000
+GTMr101,World,GTM,Guatemala,Metropolitan,   0.750550000000000
+GTMr102,World,GTM,Guatemala,North,   0.573396000000000
+GTMr103,World,GTM,Guatemala,North-Oriental,   0.645186000000000
+GTMr104,World,GTM,Guatemala,South-Oriental,   0.636450000000000
+GTMr105,World,GTM,Guatemala,Central,   0.663823000000000
+GTMr106,World,GTM,Guatemala,South-Occidental,   0.629599000000000
+GTMr107,World,GTM,Guatemala,North-Occidental,   0.573704000000000
+GTMr108,World,GTM,Guatemala,Peten,   0.629695000000000
+GUYr101,World,GUY,Guyana,Barima-Waini,   0.581798000000000
+GUYr102,World,GUY,Guyana,Pomeroon-Supenaam,   0.643675000000000
+GUYr103,World,GUY,Guyana,Essequibo Islands-West Demerara,   0.658944000000000
+GUYr104,World,GUY,Guyana,Demerara-Mahaica,   0.689839000000000
+GUYr105,World,GUY,Guyana,Mahaica-Berbice,   0.667689000000000
+GUYr106,World,GUY,Guyana,East Berbice-Corentyne,   0.659630000000000
+GUYr107,World,GUY,Guyana,Cuyuni-Mazaruni,   0.625549000000000
+GUYr108,World,GUY,Guyana,Potaro-Siparuni,   0.547256000000000
+GUYr109,World,GUY,Guyana,Upper Takutu-Upper Essequibo,   0.588693000000000
+GUYr110,World,GUY,Guyana,Upper Demerara-Berbice,   0.692607000000000
+HNDr101,World,HND,Honduras,Atlantida,   0.648172000000000
+HNDr102,World,HND,Honduras,Colon,   0.607925000000000
+HNDr103,World,HND,Honduras,Comayagua,   0.605363000000000
+HNDr104,World,HND,Honduras,Copan,   0.564794000000000
+HNDr105,World,HND,Honduras,Cortes,   0.663721000000000
+HNDr106,World,HND,Honduras,Choluteca,   0.573793000000000
+HNDr107,World,HND,Honduras,El Paraiso,   0.574654000000000
+HNDr108,World,HND,Honduras,Francisco Morazan,   0.692938000000000
+HNDr109,World,HND,Honduras,Gracias a Dios,   0.540375000000000
+HNDr110,World,HND,Honduras,Intibuca,   0.546757000000000
+HNDr111,World,HND,Honduras,Islas de la Bahia,   0.648173000000000
+HNDr112,World,HND,Honduras,La Paz,   0.571057000000000
+HNDr113,World,HND,Honduras,Lempira,   0.518080000000000
+HNDr114,World,HND,Honduras,Ocotepeque,   0.577845000000000
+HNDr115,World,HND,Honduras,Olancho,   0.591059000000000
+HNDr116,World,HND,Honduras,Santa Barbara,   0.588286000000000
+HNDr117,World,HND,Honduras,Valle,   0.591001000000000
+HNDr118,World,HND,Honduras,Yoro,   0.609881000000000
+HRVr101,World,HRV,Croatia,City of Zagreb,   0.894575000000000
+HRVr102,World,HRV,Croatia,County of Zagreb,   0.818943000000000
+HRVr103,World,HRV,Croatia,County of Krapina-Zagorje,   0.796452000000000
+HRVr104,World,HRV,Croatia,County of Varazdin,   0.820650000000000
+HRVr105,World,HRV,Croatia,County of Koprivnica-Krizevc,   0.805879000000000
+HRVr106,World,HRV,Croatia,County of Medimurje,   0.815621000000000
+HRVr107,World,HRV,Croatia,County of Bjelovar-Bilogora,   0.795279000000000
+HRVr108,World,HRV,Croatia,County of Virovitica-Podravina,   0.778292000000000
+HRVr109,World,HRV,Croatia,County of Pozega-Slavonia,   0.785455000000000
+HRVr110,World,HRV,Croatia,County of Brod-Posavina,   0.788281000000000
+HRVr111,World,HRV,Croatia,County of Osijek-Baranja,   0.815418000000000
+HRVr112,World,HRV,Croatia,County of Vukovar-Srijem,   0.788304000000000
+HRVr113,World,HRV,Croatia,County of Karlovac,   0.809815000000000
+HRVr114,World,HRV,Croatia,County of Sisak-Moslavina,   0.803794000000000
+HRVr115,World,HRV,Croatia,County of Primorje-Gorski Kotar,   0.862987000000000
+HRVr116,World,HRV,Croatia,County of Lika-Senj,   0.802581000000000
+HRVr117,World,HRV,Croatia,County of Zadar,   0.818924000000000
+HRVr118,World,HRV,Croatia,County of Sibenik-Knin,   0.812925000000000
+HRVr119,World,HRV,Croatia,County of Split-Dalmatia,   0.829951000000000
+HRVr120,World,HRV,Croatia,County of Istria,   0.853241000000000
+HRVr121,World,HRV,Croatia,County of Dubrovnik-Neretva,   0.845933000000000
+HTIr101,World,HTI,Haiti,West (incl Metropolitain area),   0.534189000000000
+HTIr102,World,HTI,Haiti,South-East,   0.480497000000000
+HTIr103,World,HTI,Haiti,North,   0.515942000000000
+HTIr104,World,HTI,Haiti,North-East,   0.491283000000000
+HTIr105,World,HTI,Haiti,Artibonite,   0.468437000000000
+HTIr106,World,HTI,Haiti,Centre,   0.453548000000000
+HTIr107,World,HTI,Haiti,South,   0.486723000000000
+HTIr108,World,HTI,Haiti,Grande-Anse,   0.470999000000000
+HTIr109,World,HTI,Haiti,North-West,   0.492215000000000
+HUNr101,World,HUN,Hungary,Kozep-Magyarorszag,   0.901630000000000
+HUNr102,World,HUN,Hungary,Kozep-Dunantul,   0.824656000000000
+HUNr103,World,HUN,Hungary,Nyugat-Dunantul,   0.846043000000000
+HUNr104,World,HUN,Hungary,Del-Dunantul,   0.808018000000000
+HUNr105,World,HUN,Hungary,Eszak-Magyarorszag,   0.796221000000000
+HUNr106,World,HUN,Hungary,Eszak-Alfold,   0.805047000000000
+HUNr107,World,HUN,Hungary,Del-Alfold,   0.818679000000000
+IDNr101,World,IDN,Indonesia,DI Aceh,   0.719116000000000
+IDNr102,World,IDN,Indonesia,North Sumatra,   0.718468000000000
+IDNr103,World,IDN,Indonesia,West Sumatra,   0.733559000000000
+IDNr104,World,IDN,Indonesia,Riau (incl. Riau islands),   0.744155000000000
+IDNr105,World,IDN,Indonesia,Jambi,   0.699404000000000
+IDNr106,World,IDN,Indonesia,South Sumatra,   0.705416000000000
+IDNr107,World,IDN,Indonesia,Bengkulu,   0.717133000000000
+IDNr108,World,IDN,Indonesia,Lampung,   0.693176000000000
+IDNr109,World,IDN,Indonesia,Bangka Belitung,   0.716356000000000
+IDNr110,World,IDN,Indonesia,DKI Jakarta,   0.785115000000000
+IDNr111,World,IDN,Indonesia,West Java,   0.714492000000000
+IDNr112,World,IDN,Indonesia,Central Java,   0.693632000000000
+IDNr113,World,IDN,Indonesia,DI Yogyakarta,   0.761960000000000
+IDNr114,World,IDN,Indonesia,East Java,   0.702220000000000
+IDNr115,World,IDN,Indonesia,Banten,   0.711589000000000
+IDNr116,World,IDN,Indonesia,Bali,   0.736944000000000
+IDNr117,World,IDN,Indonesia,West Nusa Tenggara,   0.660724000000000
+IDNr118,World,IDN,Indonesia,East Nusa Tenggara,   0.652407000000000
+IDNr120,World,IDN,Indonesia,West Kalimantan,   0.683959000000000
+IDNr121,World,IDN,Indonesia,Central Kalimantan,   0.689343000000000
+IDNr122,World,IDN,Indonesia,South Kalimantan,   0.698850000000000
+IDNr123,World,IDN,Indonesia,East Kalimantan,   0.749069000000000
+IDNr124,World,IDN,Indonesia,North Sulawesi,   0.728688000000000
+IDNr125,World,IDN,Indonesia,Central Sulawesi,   0.664355000000000
+IDNr126,World,IDN,Indonesia,South Sulawesi (incl Sulawesi Barat),   0.700106000000000
+IDNr127,World,IDN,Indonesia,Southeast Sulawesi,   0.698870000000000
+IDNr128,World,IDN,Indonesia,Gorontalo,   0.642122000000000
+IDNr129,World,IDN,Indonesia,Maluku,   0.694684000000000
+IDNr130,World,IDN,Indonesia,Irian Jaya (Papua and Papua Barat),   0.606993000000000
+INDr101,World,IND,India,Andhra Pradesh,   0.649547000000000
+INDr102,World,IND,India,Assam,   0.614034000000000
+INDr103,World,IND,India,Bihar,   0.575140000000000
+INDr104,World,IND,India,Goa,   0.759911000000000
+INDr105,World,IND,India,Gujarat,   0.672343000000000
+INDr106,World,IND,India,Haryana,   0.707965000000000
+INDr107,World,IND,India,Himachal Pradesh,   0.724525000000000
+INDr108,World,IND,India,Jammu and Kashmir,   0.688152000000000
+INDr109,World,IND,India,Karnataka,   0.681742000000000
+INDr110,World,IND,India,Kerala,   0.779322000000000
+INDr111,World,IND,India,Madhya Pradesh,   0.605185000000000
+INDr112,World,IND,India,Maharashtra,   0.695723000000000
+INDr113,World,IND,India,Manipur,   0.695758000000000
+INDr114,World,IND,India,Meghalaya,   0.656202000000000
+INDr115,World,IND,India,Mizoram,   0.705420000000000
+INDr116,World,IND,India,Nagaland,   0.679187000000000
+INDr117,World,IND,India,Orissa,   0.605692000000000
+INDr118,World,IND,India,Punjab,   0.722735000000000
+INDr119,World,IND,India,Rajasthan,   0.629322000000000
+INDr120,World,IND,India,Sikkim,   0.715896000000000
+INDr121,World,IND,India,Tamil Nadu,   0.708381000000000
+INDr122,World,IND,India,West Bengal,   0.640707000000000
+INDr123,World,IND,India,Uttar Pradesh,   0.596011000000000
+INDr124,World,IND,India,New Delhi,   0.745744000000000
+INDr125,World,IND,India,Arunachal Pradesh,   0.659923000000000
+INDr126,World,IND,India,Tripura,   0.657531000000000
+INDr127,World,IND,India,Uttaranchal,   0.683415000000000
+INDr128,World,IND,India,Jharkhand,   0.599325000000000
+INDr129,World,IND,India,Chhattisgarh,   0.613350000000000
+INDr130,World,IND,India,Telangana,   0.669323000000000
+INDr131,World,IND,India,Chandigarth,   0.774555000000000
+INDr132,World,IND,India,Dadra and Nagar Haveli,   0.662779000000000
+INDr133,World,IND,India,Puducherry,   0.738808000000000
+INDr134,World,IND,India,Daman and Diu,   0.707679000000000
+INDr135,World,IND,India,Lakshadweep,   0.750165000000000
+INDr136,World,IND,India,Andaman and Nicobar Islands,   0.739019000000000
+IRLr101,World,IRL,Ireland,Border,   0.894438000000000
+IRLr102,World,IRL,Ireland,Midland,   0.899150000000000
+IRLr103,World,IRL,Ireland,West,   0.929334000000000
+IRLr104,World,IRL,Ireland,Dublin,   0.963302000000000
+IRLr105,World,IRL,Ireland,Mid-East,   0.926307000000000
+IRLr106,World,IRL,Ireland,Mid-West,   0.922892000000000
+IRLr107,World,IRL,Ireland,South-East,   0.913950000000000
+IRLr108,World,IRL,Ireland,South-West,   0.951308000000000
+IRNr101,World,IRN,Iran,Markazi,   0.791044000000000
+IRNr102,World,IRN,Iran,Gilan,   0.802323000000000
+IRNr103,World,IRN,Iran,Mazandaran,   0.821743000000000
+IRNr104,World,IRN,Iran,EastAzarbayejan,   0.784717000000000
+IRNr105,World,IRN,Iran,WestAzarbayejan,   0.760056000000000
+IRNr106,World,IRN,Iran,Kermanshah,   0.794734000000000
+IRNr107,World,IRN,Iran,Khuzestan,   0.800492000000000
+IRNr108,World,IRN,Iran,Fars,   0.806798000000000
+IRNr109,World,IRN,Iran,Kerman,   0.777197000000000
+IRNr110,World,IRN,Iran,Khorasan-e-Razavi,   0.780628000000000
+IRNr111,World,IRN,Iran,Esfahan,   0.829989000000000
+IRNr112,World,IRN,Iran,Sistanand Baluchestan,   0.686881000000000
+IRNr113,World,IRN,Iran,Kordestan,   0.746891000000000
+IRNr114,World,IRN,Iran,Hamedan,   0.772530000000000
+IRNr115,World,IRN,Iran,Chaharmahal and Bakhtiyari,   0.794589000000000
+IRNr116,World,IRN,Iran,Lorestan,   0.779467000000000
+IRNr117,World,IRN,Iran,Ilam,   0.814166000000000
+IRNr118,World,IRN,Iran,Kohgiluyeh and Boyerahmad,   0.792063000000000
+IRNr119,World,IRN,Iran,Bushehr,   0.810843000000000
+IRNr120,World,IRN,Iran,Zanjan,   0.770929000000000
+IRNr121,World,IRN,Iran,Semnan,   0.820925000000000
+IRNr122,World,IRN,Iran,Yazd,   0.822397000000000
+IRNr123,World,IRN,Iran,Hormozgan,   0.767510000000000
+IRNr124,World,IRN,Iran,Tehran and Alborz,   0.833473000000000
+IRNr125,World,IRN,Iran,Ardebil,   0.762381000000000
+IRNr126,World,IRN,Iran,Qom,   0.813578000000000
+IRNr127,World,IRN,Iran,Qazvin,   0.794281000000000
+IRNr128,World,IRN,Iran,Golestan,   0.775094000000000
+IRNr129,World,IRN,Iran,North Khorasan,   0.746323000000000
+IRNr130,World,IRN,Iran,South Khorasan,   0.756860000000000
+IRQr101,World,IRQ,Iraq,Dohouk,   0.703253000000000
+IRQr102,World,IRQ,Iraq,Nenava,   0.698664000000000
+IRQr103,World,IRQ,Iraq,Suleimaniya,   0.705422000000000
+IRQr104,World,IRQ,Iraq,Ta-amem-Karkuk,   0.708247000000000
+IRQr105,World,IRQ,Iraq,Erbil,   0.703381000000000
+IRQr106,World,IRQ,Iraq,Diala,   0.697770000000000
+IRQr107,World,IRQ,Iraq,Anbar,   0.683447000000000
+IRQr108,World,IRQ,Iraq,Baghdad,   0.706638000000000
+IRQr109,World,IRQ,Iraq,Babylon,   0.684452000000000
+IRQr110,World,IRQ,Iraq,Kerbela,   0.668842000000000
+IRQr111,World,IRQ,Iraq,Wasit,   0.660285000000000
+IRQr112,World,IRQ,Iraq,Salaheldeen,   0.694173000000000
+IRQr113,World,IRQ,Iraq,Najaf,   0.658133000000000
+IRQr114,World,IRQ,Iraq,Qadisiya,   0.682207000000000
+IRQr115,World,IRQ,Iraq,Muthanna,   0.646538000000000
+IRQr116,World,IRQ,Iraq,Thi-Qar,   0.686578000000000
+IRQr117,World,IRQ,Iraq,Maysan,   0.638316000000000
+IRQr118,World,IRQ,Iraq,Basra,   0.667599000000000
+ISLt,World,ISL,Iceland,Total,   0.938422000000000
+ISRt,World,ISR,Israel,Total,   0.906748000000000
+ITAr101,World,ITA,Italy,Piemonte,   0.887375000000000
+ITAr102,World,ITA,Italy,Valle dAosta,   0.876715000000000
+ITAr103,World,ITA,Italy,Liguria,   0.889397000000000
+ITAr104,World,ITA,Italy,Lombardia,   0.902170000000000
+ITAr105,World,ITA,Italy,Abruzzo,   0.883761000000000
+ITAr106,World,ITA,Italy,Molise,   0.863080000000000
+ITAr107,World,ITA,Italy,Campania,   0.846227000000000
+ITAr108,World,ITA,Italy,Puglia,   0.844551000000000
+ITAr109,World,ITA,Italy,Basilicata,   0.852500000000000
+ITAr110,World,ITA,Italy,Calabria,   0.842569000000000
+ITAr111,World,ITA,Italy,Sicilia,   0.837916000000000
+ITAr112,World,ITA,Italy,Sardegna,   0.857965000000000
+ITAr114,World,ITA,Italy,Provincia Autonoma di Trento,   0.911162000000000
+ITAr115,World,ITA,Italy,Veneto,   0.891421000000000
+ITAr116,World,ITA,Italy,Friuli-Venezia Giulia,   0.894735000000000
+ITAr117,World,ITA,Italy,Emilia-Romagna,   0.909563000000000
+ITAr118,World,ITA,Italy,Toscana,   0.898838000000000
+ITAr119,World,ITA,Italy,Umbria,   0.884331000000000
+ITAr120,World,ITA,Italy,Marche,   0.893087000000000
+ITAr121,World,ITA,Italy,Lazio,   0.903923000000000
+JAMr101,World,JAM,Jamaica,"Kingston, St Andrew",   0.745021000000000
+JAMr102,World,JAM,Jamaica,"St Thomas, Portland, St Mary",   0.708429000000000
+JAMr103,World,JAM,Jamaica,"St Ann, St Catherine",   0.748176000000000
+JAMr104,World,JAM,Jamaica,"Trelawny, St Elizabeth",   0.701709000000000
+JAMr105,World,JAM,Jamaica,"St James, Hanover, Westmoreland",   0.700021000000000
+JAMr106,World,JAM,Jamaica,"Manchester, Clarendon",   0.710518000000000
+JORr101,World,JOR,Jordan,Amman,   0.739803000000000
+JORr102,World,JOR,Jordan,Balqa,   0.719080000000000
+JORr103,World,JOR,Jordan,Zarqa,   0.708797000000000
+JORr104,World,JOR,Jordan,Madaba,   0.708901000000000
+JORr105,World,JOR,Jordan,Irbid,   0.718886000000000
+JORr106,World,JOR,Jordan,Mafraq,   0.668864000000000
+JORr107,World,JOR,Jordan,Jarash,   0.718028000000000
+JORr108,World,JOR,Jordan,Aljoun,   0.716922000000000
+JORr109,World,JOR,Jordan,Karak,   0.732438000000000
+JORr110,World,JOR,Jordan,Tafiela,   0.716329000000000
+JORr111,World,JOR,Jordan,Maan,   0.693352000000000
+JORr112,World,JOR,Jordan,Aqaba,   0.723700000000000
+JPNr101,World,JPN,Japan,Hokkaido,   0.890303000000000
+JPNr102,World,JPN,Japan,"Tohoku (Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima)",   0.885117000000000
+JPNr103,World,JPN,Japan,"Northern-Kanto, Koshin (Ibaraki, Tochigi, Gunma)",   0.903339000000000
+JPNr104,World,JPN,Japan,"Southern-Kanto (Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Nagano)",   0.941547000000000
+JPNr105,World,JPN,Japan,"Hokuriku (Niigata, Toyama, Ishikawa, Fukui)",   0.900359000000000
+JPNr106,World,JPN,Japan,"Toukai (Gifu, Shizuoka, Aichi, Mie)",   0.915738000000000
+JPNr107,World,JPN,Japan,"Kansai region (Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama)",   0.917144000000000
+JPNr108,World,JPN,Japan,"Chugoku (Tottori, Shimane, Okayama, Hiroshima, Yamaguchi)",   0.910472000000000
+JPNr109,World,JPN,Japan,"Shikoku (Tokushima, Kagawa, Ehime, Kochi)",   0.896182000000000
+JPNr110,World,JPN,Japan,"Kyushu (Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima, Okinawa)",   0.895195000000000
+KAZr102,World,KAZ,Kazakhstan,"South region (Almatinskaya, Zhambylskaya, Kyzylordinskaya, South-Kazakhstanskaya)",   0.801982000000000
+KAZr103,World,KAZ,Kazakhstan,"West region (Aktyubinskaya, Atyrauskaya, Mangistauskaya, West-Kazakhstanskaya)",   0.808954000000000
+KAZr104,World,KAZ,Kazakhstan,Central region (Karagandinskaya),   0.837207000000000
+KAZr105,World,KAZ,Kazakhstan,"North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)",   0.830554000000000
+KAZr106,World,KAZ,Kazakhstan,East region (East-Kazakhstanskaya),   0.804093000000000
+KENr101,World,KEN,Kenya,Nairobi,   0.643272000000000
+KENr102,World,KEN,Kenya,Central,   0.616079000000000
+KENr103,World,KEN,Kenya,Coast,   0.567389000000000
+KENr104,World,KEN,Kenya,Eastern,   0.570114000000000
+KENr105,World,KEN,Kenya,Nyanza,   0.554386000000000
+KENr106,World,KEN,Kenya,Rift Valley,   0.572341000000000
+KENr107,World,KEN,Kenya,Western,   0.548746000000000
+KENr108,World,KEN,Kenya,North Eastern,   0.437303000000000
+KGZr101,World,KGZ,Kyrgyzstan,Bishkek,   0.720338000000000
+KGZr102,World,KGZ,Kyrgyzstan,"North (Issyk-Kul, Chuy, Talas)",   0.674335000000000
+KGZr103,World,KGZ,Kyrgyzstan,East (Naryn),   0.675861000000000
+KGZr104,World,KGZ,Kyrgyzstan,"South (Osh, Batken, Jalal-Abad)",   0.655689000000000
+KHMr101,World,KHM,Cambodia,Banteay Mean Chey,   0.586362000000000
+KHMr102,World,KHM,Cambodia,Kampong Cham (incl Tboung Khmum),   0.556834000000000
+KHMr103,World,KHM,Cambodia,Kampong Chhnang,   0.563838000000000
+KHMr104,World,KHM,Cambodia,Kampong Spueu,   0.572316000000000
+KHMr105,World,KHM,Cambodia,Kampong Thum,   0.546578000000000
+KHMr106,World,KHM,Cambodia,Kandal,   0.590600000000000
+KHMr107,World,KHM,Cambodia,Kaoh Kong,   0.606990000000000
+KHMr108,World,KHM,Cambodia,Phnom Penh,   0.712809000000000
+KHMr109,World,KHM,Cambodia,Prey Veaeng,   0.561801000000000
+KHMr110,World,KHM,Cambodia,Pousat,   0.550546000000000
+KHMr111,World,KHM,Cambodia,Svay Rieng,   0.577884000000000
+KHMr112,World,KHM,Cambodia,Takaev,   0.609329000000000
+KHMr113,World,KHM,Cambodia,Bat Dambang-Krong Pailin,   0.605806000000000
+KHMr114,World,KHM,Cambodia,Kampot-Krong Kaeb-Krong Preah Sihanouk,   0.584424000000000
+KHMr115,World,KHM,Cambodia,Preah Vihear-Stueng Traeng-Kracheh,   0.511282000000000
+KHMr116,World,KHM,Cambodia,Mondol Kiri-Rotanak Kiri,   0.512489000000000
+KHMr117,World,KHM,Cambodia,Siem Reab-Otdar Mean Chey,   0.541873000000000
+KORr101,World,KOR,South Korea,Capital Region,   0.932851000000000
+KORr102,World,KOR,South Korea,Gyeongnam Region,   0.917475000000000
+KORr103,World,KOR,South Korea,Gyeongbuk Region,   0.839865000000000
+KORr104,World,KOR,South Korea,Jeolla Region,   0.888512000000000
+KORr105,World,KOR,South Korea,Chungcheong Region,   0.893992000000000
+KORr106,World,KOR,South Korea,Gangwon Region,   0.884029000000000
+KORr107,World,KOR,South Korea,Jeju,   0.891509000000000
+KWTr101,World,KWT,Kuwait,"Al Asimah, Hawalli, Al-Farwaniyah, Mubarak al-Sabah",   0.807184000000000
+KWTr102,World,KWT,Kuwait,Ahmadi,   0.815931000000000
+KWTr103,World,KWT,Kuwait,Al-Jahra,   0.797428000000000
+LAOr101,World,LAO,Lao,Vientiane Municipality,   0.718836000000000
+LAOr102,World,LAO,Lao,Phongsaly,   0.543195000000000
+LAOr103,World,LAO,Lao,Luangnamtha,   0.575587000000000
+LAOr104,World,LAO,Lao,Oudomxay,   0.568309000000000
+LAOr105,World,LAO,Lao,Bokeo,   0.578708000000000
+LAOr106,World,LAO,Lao,Luangprabang,   0.590558000000000
+LAOr107,World,LAO,Lao,Huaphanh,   0.575640000000000
+LAOr108,World,LAO,Lao,Sayabury,   0.654589000000000
+LAOr109,World,LAO,Lao,Xiengkhuang,   0.629562000000000
+LAOr110,World,LAO,Lao,Vientiane Province,   0.617932000000000
+LAOr111,World,LAO,Lao,Borikhamxay,   0.638521000000000
+LAOr112,World,LAO,Lao,Khammuane,   0.588728000000000
+LAOr113,World,LAO,Lao,Savannakhet,   0.563933000000000
+LAOr114,World,LAO,Lao,Saravane,   0.523256000000000
+LAOr115,World,LAO,Lao,Sekong,   0.578005000000000
+LAOr116,World,LAO,Lao,Champasack,   0.595101000000000
+LAOr117,World,LAO,Lao,Attapeu,   0.582351000000000
+LBNr101,World,LBN,Lebanon,Beirut,   0.699682000000000
+LBNr102,World,LBN,Lebanon,Mount Lebanon,   0.729174000000000
+LBNr103,World,LBN,Lebanon,Northern,   0.717837000000000
+LBNr104,World,LBN,Lebanon,Beqaa,   0.756928000000000
+LBNr105,World,LBN,Lebanon,"Southern, Nabtieh",   0.746279000000000
+LBRr101,World,LBR,Liberia,Bomi,   0.426749000000000
+LBRr102,World,LBR,Liberia,Bong,   0.382338000000000
+LBRr103,World,LBR,Liberia,Gbarpolu,   0.405039000000000
+LBRr104,World,LBR,Liberia,Grand Bassa,   0.394616000000000
+LBRr105,World,LBR,Liberia,Grand Cape Mount,   0.386935000000000
+LBRr106,World,LBR,Liberia,Grand Gedeh,   0.437409000000000
+LBRr107,World,LBR,Liberia,Grand Kru,   0.417679000000000
+LBRr108,World,LBR,Liberia,Lofa,   0.417182000000000
+LBRr109,World,LBR,Liberia,Margibi,   0.465411000000000
+LBRr110,World,LBR,Liberia,Maryland,   0.455632000000000
+LBRr111,World,LBR,Liberia,Montserrado,   0.534384000000000
+LBRr112,World,LBR,Liberia,Nimba,   0.462487000000000
+LBRr113,World,LBR,Liberia,River Cess,   0.397911000000000
+LBRr114,World,LBR,Liberia,River Gee,   0.409669000000000
+LBRr115,World,LBR,Liberia,Sinoe,   0.421897000000000
+LBYr101,World,LBY,Libya,Cyrenaica,   0.699528000000000
+LBYr102,World,LBY,Libya,Tripolitania,   0.712253000000000
+LBYr103,World,LBY,Libya,Fezzan,   0.706768000000000
+LIEt,World,LIE,Liechtenstein,Total,   0.915801000000000
+LKAt,World,LKA,Sri Lanka,Total,   0.780955000000000
+LSOr101,World,LSO,Lesotho,Butha-Buthe,   0.523297000000000
+LSOr102,World,LSO,Lesotho,Leribe,   0.514134000000000
+LSOr103,World,LSO,Lesotho,Berea,   0.551983000000000
+LSOr104,World,LSO,Lesotho,Maseru,   0.552861000000000
+LSOr105,World,LSO,Lesotho,Mafeteng,   0.511144000000000
+LSOr106,World,LSO,Lesotho,Mohale s Hoek,   0.478847000000000
+LSOr107,World,LSO,Lesotho,Quthing,   0.493794000000000
+LSOr108,World,LSO,Lesotho,Qasha s Nek,   0.491652000000000
+LSOr109,World,LSO,Lesotho,Mokhotlong,   0.459379000000000
+LSOr110,World,LSO,Lesotho,Thaba-Tseka,   0.472979000000000
+LTUr101,World,LTU,Lithuania,Alytus County,   0.835346000000000
+LTUr102,World,LTU,Lithuania,Kaunas County,   0.876491000000000
+LTUr103,World,LTU,Lithuania,Klaipeda County,   0.870924000000000
+LTUr104,World,LTU,Lithuania,Marijampole County,   0.824364000000000
+LTUr105,World,LTU,Lithuania,Panevezys County,   0.842402000000000
+LTUr106,World,LTU,Lithuania,Siauliai County,   0.841450000000000
+LTUr107,World,LTU,Lithuania,Taurage County,   0.810770000000000
+LTUr108,World,LTU,Lithuania,Telsiai County,   0.841560000000000
+LTUr109,World,LTU,Lithuania,Utena County,   0.825160000000000
+LTUr110,World,LTU,Lithuania,Vilnius County,   0.907156000000000
+LUXt,World,LUX,Luxembourg,Total,   0.908421000000000
+LVAr101,World,LVA,Latvia,Riga region,   0.884995000000000
+LVAr103,World,LVA,Latvia,Vidzeme region,   0.830367000000000
+LVAr104,World,LVA,Latvia,Kurzeme region,   0.832738000000000
+LVAr105,World,LVA,Latvia,Zemgale region,   0.822020000000000
+LVAr106,World,LVA,Latvia,Latgale region,   0.809877000000000
+MARr101,World,MAR,Morocco,North west,   0.696284000000000
+MARr102,World,MAR,Morocco,Centre north,   0.678507000000000
+MARr103,World,MAR,Morocco,Centre,   0.710720000000000
+MARr104,World,MAR,Morocco,Eastern,   0.639022000000000
+MARr105,World,MAR,Morocco,Centre south,   0.660354000000000
+MARr106,World,MAR,Morocco,Tensift,   0.640662000000000
+MARr107,World,MAR,Morocco,South,   0.660131000000000
+MDAr101,World,MDA,Moldova,North,   0.691110000000000
+MDAr102,World,MDA,Moldova,Center,   0.688221000000000
+MDAr103,World,MDA,Moldova,South,   0.707268000000000
+MDAr104,World,MDA,Moldova,Chisinau,   0.777931000000000
+MDGr101,World,MDG,Madagascar,Analamanga,   0.632167000000000
+MDGr102,World,MDG,Madagascar,Vakinankaratra,   0.529451000000000
+MDGr103,World,MDG,Madagascar,Itasy,   0.519738000000000
+MDGr104,World,MDG,Madagascar,Bongolava,   0.491696000000000
+MDGr105,World,MDG,Madagascar,Haute Matsiatra,   0.515399000000000
+MDGr106,World,MDG,Madagascar,Anamoroni Mania,   0.529151000000000
+MDGr107,World,MDG,Madagascar,Vatovavy Fitovinany,   0.472789000000000
+MDGr108,World,MDG,Madagascar,Ihorombe,   0.445807000000000
+MDGr109,World,MDG,Madagascar,Atsimo Atsinanana,   0.418009000000000
+MDGr110,World,MDG,Madagascar,Atsinanana,   0.541061000000000
+MDGr111,World,MDG,Madagascar,Analanjirofo,   0.541913000000000
+MDGr112,World,MDG,Madagascar,Alaotra Mangoro,   0.535725000000000
+MDGr113,World,MDG,Madagascar,Boeny,   0.524833000000000
+MDGr114,World,MDG,Madagascar,Sofia,   0.537369000000000
+MDGr115,World,MDG,Madagascar,Betsiboka,   0.465033000000000
+MDGr116,World,MDG,Madagascar,Melaky,   0.462546000000000
+MDGr117,World,MDG,Madagascar,Atsimo Andrefana,   0.417123000000000
+MDGr118,World,MDG,Madagascar,Androy,   0.425332000000000
+MDGr119,World,MDG,Madagascar,Anosy,   0.427579000000000
+MDGr120,World,MDG,Madagascar,Menabe,   0.449336000000000
+MDGr121,World,MDG,Madagascar,Diana,   0.597125000000000
+MDGr122,World,MDG,Madagascar,Sava,   0.570617000000000
+MEXr101,World,MEX,Mexico,Aguascalientes,   0.789660000000000
+MEXr102,World,MEX,Mexico,Baja California,   0.802779000000000
+MEXr103,World,MEX,Mexico,Baja California Sur,   0.798268000000000
+MEXr104,World,MEX,Mexico,Campeche,   0.764301000000000
+MEXr105,World,MEX,Mexico,Coahuila,   0.790570000000000
+MEXr106,World,MEX,Mexico,Colima,   0.782001000000000
+MEXr107,World,MEX,Mexico,Chiapas,   0.692160000000000
+MEXr108,World,MEX,Mexico,Chihuahua,   0.779611000000000
+MEXr109,World,MEX,Mexico,Distrito Federal,   0.827768000000000
+MEXr110,World,MEX,Mexico,Durango,   0.764303000000000
+MEXr111,World,MEX,Mexico,Guanajuato,   0.750856000000000
+MEXr112,World,MEX,Mexico,Guerrero,   0.708999000000000
+MEXr113,World,MEX,Mexico,Hidalgo,   0.754364000000000
+MEXr114,World,MEX,Mexico,Jalisco,   0.782076000000000
+MEXr115,World,MEX,Mexico,Mexico,   0.776403000000000
+MEXr116,World,MEX,Mexico,Michoacan de Ocampo,   0.739743000000000
+MEXr117,World,MEX,Mexico,Morelos,   0.770095000000000
+MEXr118,World,MEX,Mexico,Nayarit,   0.771894000000000
+MEXr119,World,MEX,Mexico,Nuevo Leon,   0.799466000000000
+MEXr120,World,MEX,Mexico,Oaxaca,   0.702176000000000
+MEXr121,World,MEX,Mexico,Puebla,   0.736885000000000
+MEXr122,World,MEX,Mexico,Queretaro,   0.781111000000000
+MEXr123,World,MEX,Mexico,Quintana Roo,   0.777384000000000
+MEXr124,World,MEX,Mexico,San Luis Potosi,   0.754653000000000
+MEXr125,World,MEX,Mexico,Sinaloa,   0.797897000000000
+MEXr126,World,MEX,Mexico,Sonora,   0.797685000000000
+MEXr127,World,MEX,Mexico,Tabasco,   0.767771000000000
+MEXr128,World,MEX,Mexico,Tamaulipas,   0.785344000000000
+MEXr129,World,MEX,Mexico,Tlaxcala,   0.765059000000000
+MEXr130,World,MEX,Mexico,Veracruz,   0.737344000000000
+MEXr131,World,MEX,Mexico,Yucatan,   0.768310000000000
+MEXr132,World,MEX,Mexico,Zacatecas,   0.758228000000000
+MKDr101,World,MKD,North Macedonia,Skopski,   0.783299000000000
+MKDr102,World,MKD,North Macedonia,Pelagoniski,   0.768023000000000
+MKDr103,World,MKD,North Macedonia,Vardarski,   0.761869000000000
+MKDr104,World,MKD,North Macedonia,North East,   0.735036000000000
+MKDr105,World,MKD,North Macedonia,South West,   0.762323000000000
+MKDr106,World,MKD,North Macedonia,South East,   0.733629000000000
+MKDr107,World,MKD,North Macedonia,Poloski,   0.740637000000000
+MKDr108,World,MKD,North Macedonia,East,   0.744341000000000
+MLIr101,World,MLI,Mali,Kayes,   0.393646000000000
+MLIr102,World,MLI,Mali,Koulikoro,   0.431212000000000
+MLIr103,World,MLI,Mali,Sikasso,   0.405073000000000
+MLIr104,World,MLI,Mali,Segou,   0.380523000000000
+MLIr105,World,MLI,Mali,Mopti,   0.352242000000000
+MLIr106,World,MLI,Mali,Tombouctou,   0.329370000000000
+MLIr107,World,MLI,Mali,Gao and Kidal,   0.387786000000000
+MLIr108,World,MLI,Mali,Bamako,   0.602191000000000
+MLTt,World, , , ,
+MMRr101,World,MMR,Myanmar,Kachin,   0.624324000000000
+MMRr102,World,MMR,Myanmar,Kayah,   0.610324000000000
+MMRr103,World,MMR,Myanmar,Kayin,   0.557804000000000
+MMRr104,World,MMR,Myanmar,Chin,   0.593563000000000
+MMRr105,World,MMR,Myanmar,Sagaing,   0.576034000000000
+MMRr106,World,MMR,Myanmar,Taninthayi,   0.584245000000000
+MMRr107,World,MMR,Myanmar,Bago,   0.578335000000000
+MMRr108,World,MMR,Myanmar,Magway,   0.586419000000000
+MMRr109,World,MMR,Myanmar,"Mandalay, NayPyitaw",   0.601496000000000
+MMRr110,World,MMR,Myanmar,Mon,   0.607557000000000
+MMRr111,World,MMR,Myanmar,Rakhine,   0.545239000000000
+MMRr112,World,MMR,Myanmar,Yangon,   0.665380000000000
+MMRr113,World,MMR,Myanmar,Shan,   0.510321000000000
+MMRr114,World,MMR,Myanmar,Ayeyarwaddy,   0.559992000000000
+MNEr101,World,MNE,Monte Negro,North,   0.790209000000000
+MNEr102,World,MNE,Monte Negro,Centre,   0.829063000000000
+MNEr103,World,MNE,Monte Negro,South,   0.818007000000000
+MNGr101,World,MNG,Mongolia,"Western (Bayan-Ulgii, Govi-Altai, Zavkhan, Uvs, Khovd)",   0.677016000000000
+MNGr102,World,MNG,Mongolia,"Khangai (Arkhangai, Bayankhongor, Bulgan, Uvurkhangai, Khuvsgul, Orkhon)",   0.657059000000000
+MNGr103,World,MNG,Mongolia,"Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)",   0.729658000000000
+MNGr104,World,MNG,Mongolia,"Eastern (Dornod, Sukhbaatar, Khentii)",   0.688484000000000
+MNGr105,World,MNG,Mongolia,Ulaanbaatar,   0.809819000000000
+MOZr101,World,MOZ,Mozambique,Niassa,   0.414882000000000
+MOZr102,World,MOZ,Mozambique,Cabo delgado,   0.383061000000000
+MOZr103,World,MOZ,Mozambique,Nampula,   0.432883000000000
+MOZr104,World,MOZ,Mozambique,Zambezia,   0.418559000000000
+MOZr105,World,MOZ,Mozambique,Tete,   0.398267000000000
+MOZr106,World,MOZ,Mozambique,Manica,   0.482594000000000
+MOZr107,World,MOZ,Mozambique,Sofala,   0.472012000000000
+MOZr108,World,MOZ,Mozambique,Inhambane,   0.463384000000000
+MOZr109,World,MOZ,Mozambique,Gaza,   0.439760000000000
+MOZr110,World,MOZ,Mozambique,Maputo Provincia,   0.529954000000000
+MOZr111,World,MOZ,Mozambique,Maputo Cidade,   0.611090000000000
+MRTr101,World,MRT,Mauritania,Hodh Charghi,   0.464364000000000
+MRTr102,World,MRT,Mauritania,Hodh Gharbi,   0.465448000000000
+MRTr103,World,MRT,Mauritania,Assaba,   0.484913000000000
+MRTr104,World,MRT,Mauritania,Gorgol,   0.446463000000000
+MRTr105,World,MRT,Mauritania,Brakna,   0.509453000000000
+MRTr106,World,MRT,Mauritania,Trarza incl Nouakchott,   0.587313000000000
+MRTr107,World,MRT,Mauritania,Adrar,   0.554720000000000
+MRTr108,World,MRT,Mauritania,Nouadhibou,   0.637755000000000
+MRTr109,World,MRT,Mauritania,Tagant,   0.524382000000000
+MRTr110,World,MRT,Mauritania,Guidimagha,   0.440594000000000
+MRTr111,World,MRT,Mauritania,Tiris-Zemmour,   0.593180000000000
+MRTr112,World,MRT,Mauritania,Inchiri,   0.540498000000000
+MUSr101,World,MUS,Mauritius,"North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",   0.791086000000000
+MUSr102,World,MUS,Mauritius,"South (Grand Port, Savanne, Plaines Wilhems, Black River)",   0.806617000000000
+MUSr103,World,MUS,Mauritius,Rodrigues,   0.714820000000000
+MWIr101,World,MWI,Malawi,Blantyre,   0.548240000000000
+MWIr102,World,MWI,Malawi,Kasungu,   0.495231000000000
+MWIr103,World,MWI,Malawi,Machinga,   0.448321000000000
+MWIr104,World,MWI,Malawi,Mangochi,   0.448370000000000
+MWIr105,World,MWI,Malawi,Mzimba,   0.525638000000000
+MWIr106,World,MWI,Malawi,Salima,   0.447503000000000
+MWIr107,World,MWI,Malawi,Thyolo,   0.479312000000000
+MWIr108,World,MWI,Malawi,Zomba,   0.496983000000000
+MWIr109,World,MWI,Malawi,Lilongwe,   0.504316000000000
+MWIr110,World,MWI,Malawi,Mulanje,   0.465906000000000
+MWIr111,World,MWI,Malawi,"Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",   0.520041000000000
+MWIr112,World,MWI,Malawi,"Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)",   0.460179000000000
+MWIr113,World,MWI,Malawi,"Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)",   0.469204000000000
+MYSr101,World,MYS,Malaysia,Johor,   0.786499000000000
+MYSr102,World,MYS,Malaysia,Kedah,   0.769963000000000
+MYSr103,World,MYS,Malaysia,Kelantan,   0.744079000000000
+MYSr104,World,MYS,Malaysia,Melaka,   0.795715000000000
+MYSr105,World,MYS,Malaysia,Negeri Sembilan,   0.789354000000000
+MYSr106,World,MYS,Malaysia,Pahang,   0.766767000000000
+MYSr107,World,MYS,Malaysia,Pulau Pinang,   0.804595000000000
+MYSr108,World,MYS,Malaysia,Perak,   0.777890000000000
+MYSr109,World,MYS,Malaysia,Perlis,   0.768455000000000
+MYSr110,World,MYS,Malaysia,Selangor,   0.821252000000000
+MYSr111,World,MYS,Malaysia,Terengganu,   0.762156000000000
+MYSr112,World,MYS,Malaysia,Sabah,   0.675293000000000
+MYSr113,World,MYS,Malaysia,Sarawak,   0.711196000000000
+MYSr114,World,MYS,Malaysia,Kuala Lumpur Federal Territory,   0.825155000000000
+MYSr115,World,MYS,Malaysia,Labuan Federal Territory,   0.744435000000000
+NA,World, , , ,
+NAMr101,World,NAM,Namibia,Caprivi,   0.605266000000000
+NAMr102,World,NAM,Namibia,Erongo,   0.695832000000000
+NAMr103,World,NAM,Namibia,Hardap,   0.659844000000000
+NAMr104,World,NAM,Namibia,Karas,   0.678919000000000
+NAMr105,World,NAM,Namibia,Khomas,   0.732839000000000
+NAMr106,World,NAM,Namibia,Kunene,   0.570255000000000
+NAMr107,World,NAM,Namibia,Ohangwena,   0.573115000000000
+NAMr108,World,NAM,Namibia,Kavango,   0.554995000000000
+NAMr109,World,NAM,Namibia,Omaheke,   0.590276000000000
+NAMr110,World,NAM,Namibia,Omusati,   0.612623000000000
+NAMr111,World,NAM,Namibia,Oshana,   0.662533000000000
+NAMr112,World,NAM,Namibia,Oshikoto,   0.613259000000000
+NAMr113,World,NAM,Namibia,Otjozondjupa,   0.634679000000000
+NERr101,World,NER,Niger,Agadez,   0.474444000000000
+NERr102,World,NER,Niger,Diffa,   0.354424000000000
+NERr103,World,NER,Niger,Dosso,   0.355233000000000
+NERr104,World,NER,Niger,Maradi,   0.358167000000000
+NERr105,World,NER,Niger,Tillabery (incl Niamey),   0.471664000000000
+NERr106,World,NER,Niger,Tahoua,   0.331970000000000
+NERr107,World,NER,Niger,Zinder,   0.341311000000000
+NGAr101,World,NGA,Nigeria,Akwa Ibom,   0.604471000000000
+NGAr102,World,NGA,Nigeria,Anambra,   0.656535000000000
+NGAr103,World,NGA,Nigeria,Bauchi,   0.425816000000000
+NGAr104,World,NGA,Nigeria,Edo,   0.621286000000000
+NGAr105,World,NGA,Nigeria,Benue,   0.598658000000000
+NGAr106,World,NGA,Nigeria,Borno,   0.508528000000000
+NGAr107,World,NGA,Nigeria,Cross River,   0.609059000000000
+NGAr108,World,NGA,Nigeria,Adamawa,   0.481671000000000
+NGAr109,World,NGA,Nigeria,Imo,   0.643101000000000
+NGAr110,World,NGA,Nigeria,Kaduna,   0.513854000000000
+NGAr111,World,NGA,Nigeria,Kano,   0.483450000000000
+NGAr112,World,NGA,Nigeria,Katsina,   0.454077000000000
+NGAr113,World,NGA,Nigeria,Kwara,   0.566637000000000
+NGAr114,World,NGA,Nigeria,Lagos,   0.672814000000000
+NGAr115,World,NGA,Nigeria,Niger,   0.481821000000000
+NGAr116,World,NGA,Nigeria,Ogun,   0.661493000000000
+NGAr117,World,NGA,Nigeria,Ondo,   0.605320000000000
+NGAr118,World,NGA,Nigeria,Oyo,   0.625990000000000
+NGAr119,World,NGA,Nigeria,Plateau,   0.561640000000000
+NGAr120,World,NGA,Nigeria,Rivers,   0.642341000000000
+NGAr121,World,NGA,Nigeria,Sokoto,   0.338523000000000
+NGAr122,World,NGA,Nigeria,Abia,   0.639967000000000
+NGAr123,World,NGA,Nigeria,Delta,   0.654933000000000
+NGAr124,World,NGA,Nigeria,Enugu,   0.634215000000000
+NGAr125,World,NGA,Nigeria,Jigawa,   0.414192000000000
+NGAr126,World,NGA,Nigeria,Kebbi,   0.339242000000000
+NGAr127,World,NGA,Nigeria,Kogi,   0.558018000000000
+NGAr128,World,NGA,Nigeria,Osun,   0.608866000000000
+NGAr129,World,NGA,Nigeria,Taraba,   0.500761000000000
+NGAr130,World,NGA,Nigeria,Yobe,   0.364180000000000
+NGAr131,World,NGA,Nigeria,Bayelsa,   0.642306000000000
+NGAr132,World,NGA,Nigeria,Ebonyi,   0.566163000000000
+NGAr133,World,NGA,Nigeria,Ekiti,   0.611183000000000
+NGAr134,World,NGA,Nigeria,Gombe,   0.411293000000000
+NGAr135,World,NGA,Nigeria,Nassarawa,   0.574802000000000
+NGAr136,World,NGA,Nigeria,Zamfora,   0.415885000000000
+NGAr137,World,NGA,Nigeria,Abuja FCT,   0.640088000000000
+NICr101,World,NIC,Nicaragua,"Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)",   0.699864000000000
+NICr102,World,NIC,Nicaragua,"Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)",   0.607822000000000
+NICr103,World,NIC,Nicaragua,"Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))",   0.545060000000000
+NLDr101,World,NLD,Netherlands,Groningen,   0.929526000000000
+NLDr102,World,NLD,Netherlands,Friesland,   0.905450000000000
+NLDr103,World,NLD,Netherlands,Drenthe,   0.903367000000000
+NLDr104,World,NLD,Netherlands,Overijssel,   0.921701000000000
+NLDr105,World,NLD,Netherlands,Gelderland,   0.921279000000000
+NLDr106,World,NLD,Netherlands,Flevoland,   0.912792000000000
+NLDr107,World,NLD,Netherlands,Utrecht,   0.951872000000000
+NLDr108,World,NLD,Netherlands,Noord-Holland,   0.948974000000000
+NLDr109,World,NLD,Netherlands,Zuid-Holland,   0.932694000000000
+NLDr110,World,NLD,Netherlands,Zeeland,   0.906668000000000
+NLDr111,World,NLD,Netherlands,Noord-Brabant,   0.931274000000000
+NLDr112,World,NLD,Netherlands,Limburg,   0.914446000000000
+NORr101,World,NOR,Norway,Oslo og Akershus,   0.968356000000000
+NORr102,World,NOR,Norway,Hedmark og Oppland,   0.926405000000000
+NORr103,World,NOR,Norway,Sor-Ostlandet,   0.918800000000000
+NORr104,World,NOR,Norway,Agder og Rogaland,   0.948563000000000
+NORr105,World,NOR,Norway,Vestlandet,   0.955931000000000
+NORr106,World,NOR,Norway,Trondelag,   0.950740000000000
+NORr107,World,NOR,Norway,Nord-Norge,   0.935944000000000
+NPLr101,World,NPL,Nepal,Eastern,   0.576273000000000
+NPLr102,World,NPL,Nepal,Central,   0.584016000000000
+NPLr103,World,NPL,Nepal,Western,   0.601734000000000
+NPLr104,World,NPL,Nepal,Mid-western,   0.552798000000000
+NPLr105,World,NPL,Nepal,Far-western,   0.555784000000000
+NZLr101,World,NZL,New Zealand,Northland,   0.891377000000000
+NZLr102,World,NZL,New Zealand,Auckland,   0.941435000000000
+NZLr103,World,NZL,New Zealand,Waikato,   0.912646000000000
+NZLr104,World,NZL,New Zealand,Bay of Plenty,   0.909198000000000
+NZLr105,World,NZL,New Zealand,Gisborne,   0.877830000000000
+NZLr106,World,NZL,New Zealand,Hawkes Bay,   0.900205000000000
+NZLr107,World,NZL,New Zealand,Taranaki,   0.929621000000000
+NZLr108,World,NZL,New Zealand,Manawatu-Wanganui,   0.900329000000000
+NZLr109,World,NZL,New Zealand,Wellington,   0.949088000000000
+NZLr110,World,NZL,New Zealand,Tasman - Nelson,   0.917777000000000
+NZLr111,World,NZL,New Zealand,Marlborough,   0.923682000000000
+NZLr112,World,NZL,New Zealand,West Coast,   0.906510000000000
+NZLr113,World,NZL,New Zealand,Canterbury,   0.931140000000000
+NZLr114,World,NZL,New Zealand,Otago,   0.926115000000000
+NZLr115,World,NZL,New Zealand,Southland,   0.909071000000000
+OMNt,World,OMN,Oman,Total,   0.833551000000000
+PAKr101,World,PAK,Pakistan,Punjab,   0.566477000000000
+PAKr102,World,PAK,Pakistan,Sindh,   0.533314000000000
+PAKr103,World,PAK,Pakistan,Khyber Pakhtunkhwa (NWFrontier),   0.528781000000000
+PAKr104,World,PAK,Pakistan,Balochistan,   0.476839000000000
+PAKr105,World,PAK,Pakistan,Islamabad (ICT),   0.677970000000000
+PAKr106,World,PAK,Pakistan,Gilgit Baltistan,   0.593284000000000
+PAKr107,World,PAK,Pakistan,AJK,   0.609919000000000
+PAKr108,World,PAK,Pakistan,FATA,   0.464190000000000
+PANr101,World,PAN,Panama,Bocas del Toro,   0.725259000000000
+PANr102,World,PAN,Panama,Cocle,   0.767612000000000
+PANr103,World,PAN,Panama,Colon,   0.804689000000000
+PANr104,World,PAN,Panama,Chiriqui,   0.793964000000000
+PANr105,World,PAN,Panama,Darien,   0.696173000000000
+PANr106,World,PAN,Panama,Herrera,   0.794021000000000
+PANr107,World,PAN,Panama,Los Santos,   0.789255000000000
+PANr108,World,PAN,Panama,Panama,   0.825980000000000
+PANr109,World,PAN,Panama,Veraguas,   0.735192000000000
+PANr110,World,PAN,Panama,Kuna Yala,   0.586893000000000
+PANr111,World,PAN,Panama,Embera Wounaan,   0.618075000000000
+PANr112,World,PAN,Panama,Ngobe Bugle,   0.567054000000000
+PERr101,World,PER,Peru,"North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",   0.728029000000000
+PERr102,World,PER,Peru,"North East (Amazonas, Loreto, San Martin, Ucayali)",   0.700033000000000
+PERr103,World,PER,Peru,"East (Madre de Dios, Cusco, Puno, Apurimac)",   0.698435000000000
+PERr104,World,PER,Peru,"South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",   0.777794000000000
+PERr105,World,PER,Peru,"West (Ancash, Lima, Callao)",   0.816183000000000
+PERr106,World,PER,Peru,"Central (Huancavelica, Huanuco, Junin, Pasco)",   0.715152000000000
+PHLr101,World,PHL,Philippines,National Capital Region,   0.773134000000000
+PHLr102,World,PHL,Philippines,Cordillera Admin Region,   0.735175000000000
+PHLr103,World,PHL,Philippines,I-Ilocos,   0.718538000000000
+PHLr104,World,PHL,Philippines,II-Cagayan Valley,   0.699277000000000
+PHLr105,World,PHL,Philippines,III-Central Luzon,   0.726093000000000
+PHLr106,World,PHL,Philippines,IVA-CALABARZON,   0.737824000000000
+PHLr107,World,PHL,Philippines,IVB-MIMAROPA,   0.683547000000000
+PHLr108,World,PHL,Philippines,V-Bicol,   0.686613000000000
+PHLr109,World,PHL,Philippines,VI-Western Visayas,   0.682280000000000
+PHLr110,World,PHL,Philippines,VII-Central Visayas,   0.699618000000000
+PHLr111,World,PHL,Philippines,VIII-Eastern Visayas,   0.694724000000000
+PHLr112,World,PHL,Philippines,IX-Zamboanga Peninsula,   0.680301000000000
+PHLr113,World,PHL,Philippines,X-Northern Mindanao,   0.694358000000000
+PHLr114,World,PHL,Philippines,XI-Davao,   0.695514000000000
+PHLr115,World,PHL,Philippines,XII-SOCCSKSARGEN,   0.663455000000000
+PHLr116,World,PHL,Philippines,XIII-Caraga,   0.698390000000000
+PHLr117,World,PHL,Philippines,ARMM,   0.595147000000000
+PNGr101,World,PNG,Papua New Guinea,Western,   0.549674000000000
+PNGr102,World,PNG,Papua New Guinea,Gulf,   0.509675000000000
+PNGr103,World,PNG,Papua New Guinea,Central,   0.556734000000000
+PNGr104,World,PNG,Papua New Guinea,National Capital District,   0.710882000000000
+PNGr105,World,PNG,Papua New Guinea,Milne Bay,   0.547894000000000
+PNGr106,World,PNG,Papua New Guinea,"Northern, Oro",   0.542570000000000
+PNGr107,World,PNG,Papua New Guinea,Southern Highlands,   0.478082000000000
+PNGr108,World,PNG,Papua New Guinea,Enga,   0.479696000000000
+PNGr109,World,PNG,Papua New Guinea,Western Highlands,   0.571066000000000
+PNGr110,World,PNG,Papua New Guinea,"Chimbu, Simbu",   0.558235000000000
+PNGr111,World,PNG,Papua New Guinea,Eastern Highlands,   0.511139000000000
+PNGr112,World,PNG,Papua New Guinea,Morobe,   0.579497000000000
+PNGr113,World,PNG,Papua New Guinea,Madang,   0.544504000000000
+PNGr114,World,PNG,Papua New Guinea,East Sepik,   0.537367000000000
+PNGr115,World,PNG,Papua New Guinea,"West Sepik, Sandaun",   0.518567000000000
+PNGr116,World,PNG,Papua New Guinea,Manus,   0.596278000000000
+PNGr117,World,PNG,Papua New Guinea,New Ireland,   0.585405000000000
+PNGr118,World,PNG,Papua New Guinea,East New Britain,   0.586719000000000
+PNGr119,World,PNG,Papua New Guinea,West New Britain,   0.578101000000000
+PNGr120,World,PNG,Papua New Guinea,Autonomous Region of Bougainville,   0.579571000000000
+PNGr121,World,PNG,Papua New Guinea,Hela,   0.451707000000000
+PNGr122,World,PNG,Papua New Guinea,Jiwaka,   0.537923000000000
+POLr101,World,POL,Poland,Lodzkie,   0.858849000000000
+POLr102,World,POL,Poland,Mazowieckie,   0.919279000000000
+POLr103,World,POL,Poland,Malopolskie,   0.885851000000000
+POLr104,World,POL,Poland,Slaskie,   0.866497000000000
+POLr105,World,POL,Poland,Lubelskie,   0.848749000000000
+POLr106,World,POL,Poland,Podkarpackie,   0.846439000000000
+POLr107,World,POL,Poland,Swietokrzyskie,   0.841977000000000
+POLr108,World,POL,Poland,Podlaskie,   0.847791000000000
+POLr109,World,POL,Poland,Wielkopolskie,   0.878189000000000
+POLr110,World,POL,Poland,Zachodniopomorskie,   0.845647000000000
+POLr111,World,POL,Poland,Lubuskie,   0.836784000000000
+POLr112,World,POL,Poland,Dolnoslaskie,   0.882573000000000
+POLr113,World,POL,Poland,Opolskie,   0.846767000000000
+POLr114,World,POL,Poland,Kujawsko-Pomorskie,   0.849671000000000
+POLr115,World,POL,Poland,Warminsko-Mazurskie,   0.827690000000000
+POLr116,World,POL,Poland,Pomorskie,   0.873979000000000
+PRTr101,World,PRT,Portugal,Norte,   0.835233000000000
+PRTr102,World,PRT,Portugal,Algarve,   0.834285000000000
+PRTr103,World,PRT,Portugal,Centro,   0.842784000000000
+PRTr104,World,PRT,Portugal,Area Metropolitana de Lisboa,   0.889284000000000
+PRTr105,World,PRT,Portugal,Alentejo,   0.828831000000000
+PRTr106,World,PRT,Portugal,Regiao Autonoma dos Acores,   0.797462000000000
+PRTr107,World,PRT,Portugal,Regiao Autonoma da Madeira,   0.806371000000000
+PRYr101,World,PRY,Paraguay,"North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)",   0.698692000000000
+PRYr102,World,PRY,Paraguay,"North-East (Caaguazu, Alto Parana, Canideyu)",   0.703382000000000
+PRYr103,World,PRY,Paraguay,"South-West (Caazapa, Itapua)",   0.707260000000000
+PRYr104,World,PRY,Paraguay,"South-East (Guaira, Misiones, Paraguari, Neembucu)",   0.712800000000000
+PRYr105,World,PRY,Paraguay,"Central (Asuncion, Central)",   0.761322000000000
+PSEr101,World,PSE,Palestine,"Jenin, Tubas, Tulkarm, Nablus, Qalqiliya",   0.703204000000000
+PSEr102,World,PSE,Palestine,"Salfit, Ramallah, Al-Bireh, Jericho, Al Aghwar",   0.708005000000000
+PSEr103,World,PSE,Palestine,Jerusalem,   0.705126000000000
+PSEr104,World,PSE,Palestine,"Bethlehem, Hebron",   0.684841000000000
+PSEr105,World,PSE,Palestine,"North Gaza, Gaza",   0.664820000000000
+PSEr106,World,PSE,Palestine,"Deir El-Balah, Khan Yunis, Rafah",   0.688838000000000
+QATt,World,QAT,Qatar,Total,   0.849180000000000
+ROUr101,World,ROU,Romania,Nord-Est,   0.772138000000000
+ROUr102,World,ROU,Romania,Sud-Est,   0.791895000000000
+ROUr103,World,ROU,Romania,Sud,   0.781466000000000
+ROUr104,World,ROU,Romania,Sud-Vest Oltenia,   0.795778000000000
+ROUr105,World,ROU,Romania,Vest,   0.820194000000000
+ROUr106,World,ROU,Romania,Nord-Vest,   0.812200000000000
+ROUr107,World,ROU,Romania,Centru,   0.812040000000000
+ROUr108,World,ROU,Romania,Bucuresti,   0.916714000000000
+RUSr101,World,RUS,Russian Federation,The Central Federal District,   0.846717000000000
+RUSr102,World,RUS,Russian Federation,The North West Federal District,   0.834825000000000
+RUSr103,World,RUS,Russian Federation,The South Federal District,   0.800271000000000
+RUSr104,World,RUS,Russian Federation,The North-Caucasian Federal District,   0.794239000000000
+RUSr105,World,RUS,Russian Federation,The Privolzhsky (Volga) Federal District,   0.806367000000000
+RUSr106,World,RUS,Russian Federation,The Urals  Federal District,   0.840625000000000
+RUSr107,World,RUS,Russian Federation,The Siberian  Federal District,   0.795185000000000
+RUSr108,World,RUS,Russian Federation,The Far East  Federal District,   0.809803000000000
+RWAr101,World,RWA,Rwanda,City of Kigali,   0.632762000000000
+RWAr102,World,RWA,Rwanda,South,   0.522742000000000
+RWAr103,World,RWA,Rwanda,West,   0.529886000000000
+RWAr104,World,RWA,Rwanda,North,   0.530245000000000
+RWAr105,World,RWA,Rwanda,East,   0.512350000000000
+SAUr101,World,SAU,Saudi Arabia,"Center (Riadh, Qassim)",   0.879219000000000
+SAUr102,World,SAU,Saudi Arabia,"West (Makka, Madinah, Tabuk)",   0.853475000000000
+SAUr103,World,SAU,Saudi Arabia,"South (Bahah, Jizan, Asir, Najran)",   0.837079000000000
+SAUr104,World,SAU,Saudi Arabia,Eastern province,   0.843387000000000
+SAUr105,World,SAU,Saudi Arabia,"North (Northern Borders, Al Jawf, Hail)",   0.871228000000000
+SDNr101,World,SDN,Sudan,Northern,   0.624536000000000
+SDNr102,World,SDN,Sudan,Nahr El Nil,   0.600710000000000
+SDNr103,World,SDN,Sudan,Red Sea,   0.522307000000000
+SDNr104,World,SDN,Sudan,Kassala,   0.457043000000000
+SDNr105,World,SDN,Sudan,Al Gedarif,   0.455812000000000
+SDNr106,World,SDN,Sudan,Khartoum,   0.626790000000000
+SDNr107,World,SDN,Sudan,Al Gezira,   0.548393000000000
+SDNr108,World,SDN,Sudan,White Nile,   0.495706000000000
+SDNr109,World,SDN,Sudan,Sinnar,   0.496884000000000
+SDNr110,World,SDN,Sudan,Blue Nile,   0.424668000000000
+SDNr111,World,SDN,Sudan,North Kordofan,   0.465886000000000
+SDNr112,World,SDN,Sudan,South Kordofan,   0.436156000000000
+SDNr113,World,SDN,Sudan,North Darfur,   0.468085000000000
+SDNr114,World,SDN,Sudan,West Darfur,   0.446489000000000
+SDNr115,World,SDN,Sudan,South Darfur,   0.442602000000000
+SENr101,World,SEN,Senegal,Dakar,   0.638614000000000
+SENr102,World,SEN,Senegal,Ziguinchor,   0.575917000000000
+SENr103,World,SEN,Senegal,Diourbel,   0.406557000000000
+SENr104,World,SEN,Senegal,Saint Louis,   0.473255000000000
+SENr105,World,SEN,Senegal,Tambacounda,   0.408230000000000
+SENr106,World,SEN,Senegal,Kaolack,   0.436638000000000
+SENr107,World,SEN,Senegal,Thies,   0.529677000000000
+SENr108,World,SEN,Senegal,Louga,   0.426751000000000
+SENr109,World,SEN,Senegal,Fatick,   0.513011000000000
+SENr110,World,SEN,Senegal,Kolda,   0.431633000000000
+SGPt,World,SGP,Singapore,Total,   0.934760000000000
+SLBt,World,SLB,Solomon Islands,Total,   0.556709000000000
+SLEr101,World,SLE,Sierra Leone,Bombali,   0.427734000000000
+SLEr102,World,SLE,Sierra Leone,Kambia,   0.409364000000000
+SLEr103,World,SLE,Sierra Leone,Koinadugu,   0.373310000000000
+SLEr104,World,SLE,Sierra Leone,Port Loko,   0.415259000000000
+SLEr105,World,SLE,Sierra Leone,Tonkolili,   0.378895000000000
+SLEr106,World,SLE,Sierra Leone,Kailahun,   0.397579000000000
+SLEr107,World,SLE,Sierra Leone,Kenema,   0.430751000000000
+SLEr108,World,SLE,Sierra Leone,Kono,   0.407058000000000
+SLEr109,World,SLE,Sierra Leone,Bo,   0.476220000000000
+SLEr110,World,SLE,Sierra Leone,Bonthe,   0.395270000000000
+SLEr111,World,SLE,Sierra Leone,Moyamba,   0.384352000000000
+SLEr112,World,SLE,Sierra Leone,Pujehun,   0.370848000000000
+SLEr113,World,SLE,Sierra Leone,Western Rural,   0.462734000000000
+SLEr114,World,SLE,Sierra Leone,Western Urban,   0.532781000000000
+SLVr101,World,SLV,El Salvador,Occidental,   0.638143000000000
+SLVr102,World,SLV,El Salvador,Central I,   0.702600000000000
+SLVr103,World,SLV,El Salvador,Central II,   0.634706000000000
+SLVr104,World,SLV,El Salvador,Oriental,   0.625386000000000
+SOMr101,World,SOM,Somalia,W Galbeed,   0.448753000000000
+SOMr102,World,SOM,Somalia,Awdal,   0.389226000000000
+SOMr103,World,SOM,Somalia,Sanaag,   0.436929000000000
+SOMr104,World,SOM,Somalia,Sool,   0.329079000000000
+SOMr105,World,SOM,Somalia,Togdhere,   0.319214000000000
+SOMr106,World,SOM,Somalia,Mudug,   0.367002000000000
+SOMr107,World,SOM,Somalia,Nugal,   0.370103000000000
+SOMr108,World,SOM,Somalia,Bari,   0.421753000000000
+SOMr109,World,SOM,Somalia,Bakool,   0.291360000000000
+SOMr110,World,SOM,Somalia,Bay,   0.291113000000000
+SOMr111,World,SOM,Somalia,Gedo,   0.322626000000000
+SOMr112,World,SOM,Somalia,Middle Juba,   0.226953000000000
+SOMr113,World,SOM,Somalia,Hiran,   0.280420000000000
+SOMr114,World,SOM,Somalia,Middle Shabelle,   0.309435000000000
+SOMr115,World,SOM,Somalia,Lower Shabelle,   0.320029000000000
+SOMr116,World,SOM,Somalia,Banadir,   0.454330000000000
+SOMr117,World,SOM,Somalia,Galguduud,   0.276076000000000
+SOMr118,World,SOM,Somalia,Lower Juba,   0.297582000000000
+SRBr101,World,SRB,Serbia,Belgrade,   0.828320000000000
+SRBr102,World,SRB,Serbia,Vojvodina,   0.793769000000000
+SRBr103,World,SRB,Serbia,Sumadija and West Serbia,   0.793111000000000
+SRBr104,World,SRB,Serbia,South and East Serbia,   0.786606000000000
+SSDr101,World,SSD,South Sudan,Upper Nile,   0.454086000000000
+SSDr102,World,SSD,South Sudan,Jonglei,   0.356499000000000
+SSDr103,World,SSD,South Sudan,Unity,   0.365396000000000
+SSDr104,World,SSD,South Sudan,Warrap,   0.335749000000000
+SSDr105,World,SSD,South Sudan,Northern Bahr El Ghazal,   0.332925000000000
+SSDr106,World,SSD,South Sudan,Western Bahr El Ghazal,   0.445886000000000
+SSDr107,World,SSD,South Sudan,Lakes,   0.369758000000000
+SSDr108,World,SSD,South Sudan,Western Equatoria,   0.460709000000000
+SSDr109,World,SSD,South Sudan,Central Equatoria,   0.494256000000000
+SSDr110,World,SSD,South Sudan,Eastern Equatoria,   0.399924000000000
+STPr101,World,STP,Sao Tome & Principe,Regiao Centro,   0.627607000000000
+STPr102,World,STP,Sao Tome & Principe,Regiao Sul,   0.569610000000000
+STPr103,World,STP,Sao Tome & Principe,Regiao Norte,   0.562441000000000
+STPr104,World,STP,Sao Tome & Principe,Regiao do Principe,   0.608942000000000
+SURr101,World,SUR,Suriname,Paramaribo,   0.758334000000000
+SURr102,World,SUR,Suriname,Wanica and Para,   0.730083000000000
+SURr103,World,SUR,Suriname,"Nickerie, Coronie and Saramacca",   0.730451000000000
+SURr104,World,SUR,Suriname,Commewijne and Marowijne,   0.699074000000000
+SURr105,World,SUR,Suriname,Brokopondo and Sipaliwini,   0.522137000000000
+SVKr101,World,SVK,Slovakia,Bratislavsky kraj,   0.955254000000000
+SVKr102,World,SVK,Slovakia,Zapadne Slovensko,   0.849540000000000
+SVKr103,World,SVK,Slovakia,Stredne Slovensko,   0.836082000000000
+SVKr104,World,SVK,Slovakia,Vychodne Slovensko,   0.821510000000000
+SVNr101,World,SVN,Slovenia,Pomurska,   0.862992000000000
+SVNr102,World,SVN,Slovenia,Podravska,   0.884371000000000
+SVNr103,World,SVN,Slovenia,Koroska,   0.874463000000000
+SVNr104,World,SVN,Slovenia,Savinjska,   0.888872000000000
+SVNr105,World,SVN,Slovenia,Zasavska,   0.854482000000000
+SVNr106,World,SVN,Slovenia,Posavska,   0.873837000000000
+SVNr107,World,SVN,Slovenia,Jugovzhodna Slovenija,   0.887868000000000
+SVNr108,World,SVN,Slovenia,Primorsko-notranjska,   0.876932000000000
+SVNr109,World,SVN,Slovenia,Osrednjeslovenska,   0.935847000000000
+SVNr110,World,SVN,Slovenia,Gorenjska,   0.900054000000000
+SVNr111,World,SVN,Slovenia,Goriska,   0.890783000000000
+SVNr112,World,SVN,Slovenia,Obalno-kraska,   0.901243000000000
+SWEr101,World,SWE,Sweden,Stockholm,   0.961714000000000
+SWEr102,World,SWE,Sweden,Ostra Mellansverige,   0.927013000000000
+SWEr103,World,SWE,Sweden,Smaland med oarna,   0.924503000000000
+SWEr104,World,SWE,Sweden,Sydsverige,   0.929011000000000
+SWEr105,World,SWE,Sweden,Vastsverige,   0.934769000000000
+SWEr106,World,SWE,Sweden,Norra Mellansverige,   0.915951000000000
+SWEr107,World,SWE,Sweden,Mellersta Norrland,   0.918705000000000
+SWEr108,World,SWE,Sweden,Ovre Norrland,   0.926801000000000
+SWZr101,World,SWZ,Eswatini,Hhohho,   0.639639000000000
+SWZr102,World,SWZ,Eswatini,Manzini,   0.612036000000000
+SWZr103,World,SWZ,Eswatini,Shiselweni,   0.573818000000000
+SWZr104,World,SWZ,Eswatini,Lubombo,   0.592903000000000
+SYRr101,World,SYR,Syria,Damascus,   0.702796000000000
+SYRr102,World,SYR,Syria,Rural Damascus,   0.656747000000000
+SYRr103,World,SYR,Syria,Homs,   0.664678000000000
+SYRr104,World,SYR,Syria,Hamaa,   0.649091000000000
+SYRr105,World,SYR,Syria,Tartous,   0.684428000000000
+SYRr106,World,SYR,Syria,Al Latakia,   0.688736000000000
+SYRr107,World,SYR,Syria,Edlab Idleb,   0.613406000000000
+SYRr108,World,SYR,Syria,Halab - Aleppo,   0.609183000000000
+SYRr109,World,SYR,Syria,Al Raka-Raqqa,   0.581284000000000
+SYRr110,World,SYR,Syria,Der El Zour - Deir Ezzor,   0.615545000000000
+SYRr111,World,SYR,Syria,Al Hasaka,   0.591597000000000
+SYRr112,World,SYR,Syria,Al Swida - Sweida,   0.695994000000000
+SYRr113,World,SYR,Syria,Daraa,   0.650681000000000
+SYRr114,World,SYR,Syria,Al Qunitara - Quneitra,   0.636330000000000
+TCDr101,World,TCD,Chad,Zone 1 (N'Djamena),   0.549447000000000
+TCDr102,World,TCD,Chad,"Zone 2 (BET (Borkou, Ennedi, Tibesti), Kanem (incl Barh El Gazal), Lac)",   0.286268000000000
+TCDr103,World,TCD,Chad,"Zone 3 (Guera, Batha Est & Ouest, Salamat)",   0.334951000000000
+TCDr104,World,TCD,Chad,"Zone 4 (Ouaddai (incl Assongha, Sili), Biltine (new name Wad Fira))",   0.293515000000000
+TCDr105,World,TCD,Chad,"Zone 5 (Chari-Baguirmi (Dababa, Baguirmi, Hadjer Lamis))",   0.301468000000000
+TCDr106,World,TCD,Chad,"Zone 6 (Mayo-Kebbi (Kabia, Mayo Boneye & Mayo Dala))",   0.443664000000000
+TCDr107,World,TCD,Chad,"Zone 7 (Logone Occidental, Logone Oriental (incl Monts de Lam), Tandjile Est & Ouest)",   0.427145000000000
+TCDr108,World,TCD,Chad,"Zone 8 (Moyen-Chari (Barh Koh, Mandoul, Lac Iro))",   0.432167000000000
+TGOr101,World,TGO,Togo,Lome,   0.603701000000000
+TGOr102,World,TGO,Togo,Maritime,   0.542842000000000
+TGOr103,World,TGO,Togo,Plateaux,   0.480794000000000
+TGOr104,World,TGO,Togo,Centrale,   0.498405000000000
+TGOr105,World,TGO,Togo,Kara,   0.473682000000000
+TGOr106,World,TGO,Togo,Savanes,   0.429576000000000
+THAr101,World,THA,Thailand,Bangkok,   0.812080000000000
+THAr102,World,THA,Thailand,Central,   0.767854000000000
+THAr103,World,THA,Thailand,North,   0.746608000000000
+THAr104,World,THA,Thailand,Northeast,   0.748436000000000
+THAr105,World,THA,Thailand,South,   0.755739000000000
+TJKr102,World,TJK,Tajikistan,Khatlon,   0.637007000000000
+TJKr103,World,TJK,Tajikistan,Sughd (formerly Leninabad),   0.659972000000000
+TJKr104,World,TJK,Tajikistan,DRS,   0.649217000000000
+TJKr105,World,TJK,Tajikistan,GBAO,   0.670792000000000
+TKMr101,World,TKM,Turkmenistan,Ashgabat City,   0.749511000000000
+TKMr102,World,TKM,Turkmenistan,Akhal,   0.696619000000000
+TKMr103,World,TKM,Turkmenistan,Balkan,   0.726882000000000
+TKMr104,World,TKM,Turkmenistan,Dashoguz,   0.697572000000000
+TKMr105,World,TKM,Turkmenistan,Lebap,   0.717111000000000
+TKMr106,World,TKM,Turkmenistan,Mary,   0.697720000000000
+TLSr101,World,TLS,Timor Leste,Aileu,   0.612501000000000
+TLSr102,World,TLS,Timor Leste,Ainaro,   0.564961000000000
+TLSr103,World,TLS,Timor Leste,Baucau,   0.604666000000000
+TLSr104,World,TLS,Timor Leste,Bobonaro,   0.603058000000000
+TLSr105,World,TLS,Timor Leste,Cova Lima,   0.615261000000000
+TLSr106,World,TLS,Timor Leste,Dili,   0.727715000000000
+TLSr107,World,TLS,Timor Leste,Ermera,   0.562589000000000
+TLSr108,World,TLS,Timor Leste,Liquica,   0.632110000000000
+TLSr109,World,TLS,Timor Leste,Lautem,   0.605542000000000
+TLSr110,World,TLS,Timor Leste,Manufahi,   0.617919000000000
+TLSr111,World,TLS,Timor Leste,Manatuto,   0.615836000000000
+TLSr112,World,TLS,Timor Leste,Oecussi,   0.564947000000000
+TLSr113,World,TLS,Timor Leste,Viqueque,   0.605174000000000
+TONt,World,TON,Tonga,Total,   0.717641000000000
+TTOr101,World,TTO,Trinidad & Tobago,North West,   0.799394000000000
+TTOr102,World,TTO,Trinidad & Tobago,East,   0.780973000000000
+TTOr103,World,TTO,Trinidad & Tobago,Central,   0.801242000000000
+TTOr104,World,TTO,Trinidad & Tobago,South West,   0.808716000000000
+TTOr105,World,TTO,Trinidad & Tobago,Tobago,   0.787185000000000
+TUNr101,World,TUN,Tunisia,"Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)",   0.782080000000000
+TUNr102,World,TUN,Tunisia,"Nord Est (Nabeul, Zaghouan, Bizerte)",   0.726511000000000
+TUNr103,World,TUN,Tunisia,"Nord Ouest (Beja, Jendouba, Kef, Siliana)",   0.715657000000000
+TUNr104,World,TUN,Tunisia,"Centre Ouest (Kairouan, Kasserine, Sidi Bouzid)",   0.677171000000000
+TUNr105,World,TUN,Tunisia,"Centre Est (Sousse, Monastir, Mahdia, Sfax)",   0.745592000000000
+TUNr106,World,TUN,Tunisia,"Sud Ouest (Gafsa, Tozeur, Kebili)",   0.734159000000000
+TUNr107,World,TUN,Tunisia,"Sud Est (Gabes, Medinine, Tataouine)",   0.736466000000000
+TURr101,World,TUR,Turkey,Istanbul,   0.828777000000000
+TURr102,World,TUR,Turkey,"West Marmara (Balikesir, Canakkale, Edirne, Kirklareli, Tekirdag)",   0.831716000000000
+TURr103,World,TUR,Turkey,"Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Manisa, Mugla, Usak)",   0.813133000000000
+TURr104,World,TUR,Turkey,"East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskisehir, Kocaeli, Sakarya, Yalova)",   0.827357000000000
+TURr105,World,TUR,Turkey,"West Anatolia (Ankara, Konya, Karaman)",   0.854872000000000
+TURr106,World,TUR,Turkey,"Mediterranean (Adana, Antalya, Burdur, Hatay, Isparta, Icel, K Maras, Osmaniye)",   0.793266000000000
+TURr107,World,TUR,Turkey,"Central Anatolia (Kayseri, Kirsehir, Nevsehir, Nigde, Sivas, Yozgat, Aksaray, Kirikkale)",   0.806856000000000
+TURr108,World,TUR,Turkey,"West Black Sea (Amasya, Cankiri, Corum, Kastamonu, Samsun, Sinop, Tokat, Zonguldak, Bartin, Karabuk)",   0.807456000000000
+TURr109,World,TUR,Turkey,"East Black Sea (Artvin, Giresun, Gumushane, Ordu, Rize, Trabzon)",   0.786312000000000
+TURr110,World,TUR,Turkey,"North East Anatolia (Agri, Erzincan, Erzurum, Kars, Bayburt, Ardahan, Igdir)",   0.742144000000000
+TURr111,World,TUR,Turkey,"Central East Anatolia (Bingol, Bitlis, Elazig, Hakkari, Malatya, Mus, Tunceli, Van)",   0.756279000000000
+TURr112,World,TUR,Turkey,"South East Anatolia (Adiyaman, Diyarbakir, Gaziantep, Mardin, Siirt, Sanliurfa, Batman, Sirnak, Kili",   0.753361000000000
+TZAr201,World,TZA,Tanzania,Dodoma,   0.479040000000000
+TZAr202,World,TZA,Tanzania,"Arusha, Manyara",   0.544688000000000
+TZAr203,World,TZA,Tanzania,Kilimanjaro,   0.612938000000000
+TZAr204,World,TZA,Tanzania,Tanga,   0.546192000000000
+TZAr205,World,TZA,Tanzania,Morogoro,   0.524822000000000
+TZAr206,World,TZA,Tanzania,Pwani,   0.505398000000000
+TZAr207,World,TZA,Tanzania,Dar Es Salam,   0.630849000000000
+TZAr208,World,TZA,Tanzania,Lindi,   0.490028000000000
+TZAr209,World,TZA,Tanzania,Mtwara,   0.488841000000000
+TZAr210,World,TZA,Tanzania,Ruvuma,   0.533014000000000
+TZAr211,World,TZA,Tanzania,"Iringa, Njombe",   0.554084000000000
+TZAr212,World,TZA,Tanzania,Mbeya,   0.523532000000000
+TZAr213,World,TZA,Tanzania,Singida,   0.525552000000000
+TZAr214,World,TZA,Tanzania,Tabora,   0.464030000000000
+TZAr215,World,TZA,Tanzania,"Rukwa, Katavi",   0.467573000000000
+TZAr216,World,TZA,Tanzania,Kigoma,   0.499318000000000
+TZAr217,World,TZA,Tanzania,"Shinyanga, Simiyu",   0.490106000000000
+TZAr218,World,TZA,Tanzania,Kagera,   0.502303000000000
+TZAr219,World,TZA,Tanzania,"Mwanza, Geita",   0.504519000000000
+TZAr220,World,TZA,Tanzania,Mara,   0.522685000000000
+TZAr221,World,TZA,Tanzania,Zanzibar North,   0.559832000000000
+TZAr222,World,TZA,Tanzania,Zanzibar South,   0.612864000000000
+TZAr223,World,TZA,Tanzania,Zanzibar West,   0.690195000000000
+TZAr224,World,TZA,Tanzania,Pemba North,   0.542318000000000
+TZAr225,World,TZA,Tanzania,Pemba South,   0.577180000000000
+UGAr101,World,UGA,Uganda,Central 1 (Central South),   0.585234000000000
+UGAr102,World,UGA,Uganda,Central 2 (Central North),   0.540678000000000
+UGAr103,World,UGA,Uganda,Kampala,   0.639068000000000
+UGAr104,World,UGA,Uganda,East Central (Busoga),   0.529922000000000
+UGAr105,World,UGA,Uganda,"Eastern (Bukedi, Bugishu, Teso)",   0.526662000000000
+UGAr106,World,UGA,Uganda,"North (Karamoja, Lango, Acholi)",   0.475232000000000
+UGAr107,World,UGA,Uganda,West Nile,   0.485809000000000
+UGAr108,World,UGA,Uganda,"Western (Bunyoro, Tooro)",   0.499467000000000
+UGAr109,World,UGA,Uganda,"Southwest (Ankole, Kigezi)",   0.517212000000000
+UKRr101,World,UKR,Ukraine,North,   0.748789000000000
+UKRr102,World,UKR,Ukraine,Central,   0.738768000000000
+UKRr103,World,UKR,Ukraine,East,   0.756010000000000
+UKRr104,World,UKR,Ukraine,South,   0.755635000000000
+UKRr105,World,UKR,Ukraine,West,   0.739788000000000
+URYr101,World,URY,Uruguay,Montevideo and Metropolitan area,   0.824127000000000
+URYr102,World,URY,Uruguay,"Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)",   0.777085000000000
+URYr103,World,URY,Uruguay,"Costa Este (Canelones, Maldonado and Rocha)",   0.810633000000000
+URYr104,World,URY,Uruguay,"Litoral Sur (Soriano, Colonia and San Jose)",   0.775019000000000
+URYr105,World,URY,Uruguay,Centro (Durazno and Tacuarembo),   0.782085000000000
+URYr106,World,URY,Uruguay,"Centro Sur (Flores, Florida and Lavalleja)",   0.807182000000000
+URYr107,World,URY,Uruguay,"Litoral Norte (Paysandu, Salto and Rio Negro)",   0.768178000000000
+USAr101,World,USA,United States,Alabama,   0.877672000000000
+USAr102,World,USA,United States,Alaska,   0.937838000000000
+USAr103,World,USA,United States,Arizona,   0.908268000000000
+USAr104,World,USA,United States,Arkansas,   0.877778000000000
+USAr105,World,USA,United States,California,   0.929411000000000
+USAr106,World,USA,United States,Colorado,   0.941524000000000
+USAr107,World,USA,United States,Connecticut,   0.952926000000000
+USAr108,World,USA,United States,Delaware,   0.930735000000000
+USAr109,World,USA,United States,District of Columbia,   0.942357000000000
+USAr110,World,USA,United States,Florida,   0.908596000000000
+USAr111,World,USA,United States,Georgia,   0.902654000000000
+USAr112,World,USA,United States,Hawaii,   0.940211000000000
+USAr113,World,USA,United States,Idaho,   0.906647000000000
+USAr114,World,USA,United States,Illinois,   0.928295000000000
+USAr115,World,USA,United States,Indiana,   0.906020000000000
+USAr116,World,USA,United States,Iowa,   0.928140000000000
+USAr117,World,USA,United States,Kansas,   0.921837000000000
+USAr118,World,USA,United States,Kentucky,   0.881316000000000
+USAr119,World,USA,United States,Louisiana,   0.885326000000000
+USAr120,World,USA,United States,Maine,   0.914995000000000
+USAr121,World,USA,United States,Maryland,   0.934619000000000
+USAr122,World,USA,United States,Massachusetts,   0.956930000000000
+USAr123,World,USA,United States,Michigan,   0.912199000000000
+USAr124,World,USA,United States,Minnesota,   0.947251000000000
+USAr125,World,USA,United States,Mississippi,   0.862836000000000
+USAr126,World,USA,United States,Missouri,   0.905444000000000
+USAr127,World,USA,United States,Montana,   0.917882000000000
+USAr128,World,USA,United States,Nebraska,   0.934777000000000
+USAr129,World,USA,United States,Nevada,   0.901695000000000
+USAr130,World,USA,United States,New Hampshire,   0.942240000000000
+USAr131,World,USA,United States,New Jersey,   0.944087000000000
+USAr132,World,USA,United States,New Mexico,   0.900452000000000
+USAr133,World,USA,United States,New York,   0.942632000000000
+USAr134,World,USA,United States,North Carolina,   0.905076000000000
+USAr135,World,USA,United States,North Dakota,   0.942099000000000
+USAr136,World,USA,United States,Ohio,   0.913678000000000
+USAr137,World,USA,United States,Oklahoma,   0.895444000000000
+USAr138,World,USA,United States,Oregon,   0.929481000000000
+USAr139,World,USA,United States,Pennsylvania,   0.922998000000000
+USAr140,World,USA,United States,Rhode Island,   0.920402000000000
+USAr141,World,USA,United States,South Carolina,   0.889895000000000
+USAr142,World,USA,United States,South Dakota,   0.928216000000000
+USAr143,World,USA,United States,Tennessee,   0.891863000000000
+USAr144,World,USA,United States,Texas,   0.909730000000000
+USAr145,World,USA,United States,Utah,   0.929987000000000
+USAr146,World,USA,United States,Vermont,   0.936982000000000
+USAr147,World,USA,United States,Virginia,   0.928396000000000
+USAr148,World,USA,United States,Washington,   0.939696000000000
+USAr149,World,USA,United States,West Virginia,   0.872346000000000
+USAr150,World,USA,United States,Wisconsin,   0.928920000000000
+USAr151,World,USA,United States,Wyoming,   0.932715000000000
+UZBr101,World,UZB,Uzbekistan,Western,   0.710086000000000
+UZBr102,World,UZB,Uzbekistan,Central,   0.703348000000000
+UZBr103,World,UZB,Uzbekistan,Southern,   0.679676000000000
+UZBr104,World,UZB,Uzbekistan,Central East,   0.729788000000000
+UZBr105,World,UZB,Uzbekistan,East,   0.702467000000000
+UZBr106,World,UZB,Uzbekistan,Tashkent,   0.794394000000000
+VCTt,World,VCT,Saint Vincent and the Grenadin,Total,   0.727688000000000
+VENr101,World,VEN,Venezuela,Federal District,   0.771760000000000
+VENr102,World,VEN,Venezuela,Amazonas Federal Territory,   0.707685000000000
+VENr103,World,VEN,Venezuela,Anzoategui,   0.738021000000000
+VENr104,World,VEN,Venezuela,Apure,   0.652485000000000
+VENr105,World,VEN,Venezuela,Aragua,   0.751164000000000
+VENr106,World,VEN,Venezuela,Barinas,   0.671398000000000
+VENr107,World,VEN,Venezuela,Bolivar,   0.729209000000000
+VENr108,World,VEN,Venezuela,Carabobo,   0.747271000000000
+VENr109,World,VEN,Venezuela,Cojedes,   0.702213000000000
+VENr110,World,VEN,Venezuela,Amacuros Delta Federal Territory,   0.710450000000000
+VENr111,World,VEN,Venezuela,Falcon,   0.715794000000000
+VENr112,World,VEN,Venezuela,Guarico,   0.686656000000000
+VENr113,World,VEN,Venezuela,Lara,   0.705809000000000
+VENr114,World,VEN,Venezuela,Merida,   0.713543000000000
+VENr115,World,VEN,Venezuela,Miranda,   0.758502000000000
+VENr116,World,VEN,Venezuela,Monagas,   0.716608000000000
+VENr117,World,VEN,Venezuela,Nueva Esparta,   0.745970000000000
+VENr118,World,VEN,Venezuela,Portuguesa,   0.670677000000000
+VENr119,World,VEN,Venezuela,Sucre,   0.693844000000000
+VENr120,World,VEN,Venezuela,Tachira,   0.723182000000000
+VENr121,World,VEN,Venezuela,Trujillo,   0.693269000000000
+VENr122,World,VEN,Venezuela,Yaracuy,   0.691463000000000
+VENr123,World,VEN,Venezuela,Zulia,   0.711730000000000
+VENr124,World,VEN,Venezuela,Vargas,   0.745511000000000
+VNMr101,World,VNM,Vietnam,Red River Delta,   0.736154000000000
+VNMr102,World,VNM,Vietnam,"North East, North West",   0.650308000000000
+VNMr103,World,VNM,Vietnam,North Central Coast and South Central Coast,   0.694484000000000
+VNMr104,World,VNM,Vietnam,Central Highlands,   0.644676000000000
+VNMr105,World,VNM,Vietnam,South East,   0.725665000000000
+VNMr106,World,VNM,Vietnam,Mekong River Delta,   0.654122000000000
+VUTr101,World,VUT,Vanuatu,Tafea,   0.539522000000000
+VUTr102,World,VUT,Vanuatu,Shefa,   0.587704000000000
+VUTr103,World,VUT,Vanuatu,Malampa,   0.565932000000000
+VUTr104,World,VUT,Vanuatu,Penama,   0.538557000000000
+VUTr105,World,VUT,Vanuatu,Sanma,   0.567301000000000
+VUTr106,World,VUT,Vanuatu,Torba,   0.543191000000000
+WSMt,World,WSM,Samoa,Total,   0.706888000000000
+YEMr101,World,YEM,Yemen,Ibb,   0.457587000000000
+YEMr102,World,YEM,Yemen,"Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",   0.512019000000000
+YEMr103,World,YEM,Yemen,"Sana a (capital; Al Amana), Sana a (governorate)",   0.529292000000000
+YEMr104,World,YEM,Yemen,"Beida (Al Bayda), Dhamar, Raimah",   0.415395000000000
+YEMr105,World,YEM,Yemen,Taiz,   0.478325000000000
+YEMr106,World,YEM,Yemen,"Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",   0.513872000000000
+YEMr107,World,YEM,Yemen,"Hajja, Sada, Amran (Omran)",   0.400711000000000
+YEMr108,World,YEM,Yemen,"Hodeida (Al Hudaydah), Mahweit (Al Mahwit)",   0.413655000000000
+ZAFr101,World,ZAF,South Africa,Western Cape,   0.740808000000000
+ZAFr102,World,ZAF,South Africa,Eastern Cape,   0.669123000000000
+ZAFr103,World,ZAF,South Africa,Northern Cape,   0.694378000000000
+ZAFr104,World,ZAF,South Africa,Free State,   0.705152000000000
+ZAFr105,World,ZAF,South Africa,KwaZulu Natal,   0.700612000000000
+ZAFr106,World,ZAF,South Africa,North West,   0.671051000000000
+ZAFr107,World,ZAF,South Africa,Gauteng,   0.726363000000000
+ZAFr108,World,ZAF,South Africa,Mpumalanga,   0.672989000000000
+ZAFr109,World,ZAF,South Africa,Northern Province,   0.705115000000000
+ZMBr101,World,ZMB,Zambia,Central,   0.575386000000000
+ZMBr102,World,ZMB,Zambia,Copperbelt,   0.673503000000000
+ZMBr103,World,ZMB,Zambia,Eastern,   0.508565000000000
+ZMBr104,World,ZMB,Zambia,Luapula,   0.529487000000000
+ZMBr105,World,ZMB,Zambia,Lusaka,   0.675163000000000
+ZMBr106,World,ZMB,Zambia,Northern,   0.541247000000000
+ZMBr107,World,ZMB,Zambia,North-Western,   0.565489000000000
+ZMBr108,World,ZMB,Zambia,Southern,   0.591814000000000
+ZMBr109,World,ZMB,Zambia,Western,   0.532908000000000
+ZWEr101,World,ZWE,Zimbabwe,Manicaland,   0.525343000000000
+ZWEr102,World,ZWE,Zimbabwe,Mashonaland Central,   0.518664000000000
+ZWEr103,World,ZWE,Zimbabwe,Mashonaland East,   0.538256000000000
+ZWEr104,World,ZWE,Zimbabwe,Mashonaland West,   0.547435000000000
+ZWEr105,World,ZWE,Zimbabwe,Matebeleland North,   0.527767000000000
+ZWEr106,World,ZWE,Zimbabwe,Matebeleland South,   0.536536000000000
+ZWEr107,World,ZWE,Zimbabwe,Midlands,   0.560737000000000
+ZWEr108,World,ZWE,Zimbabwe,Masvingo,   0.558965000000000
+ZWEr109,World,ZWE,Zimbabwe,Harare,   0.645073000000000
+ZWEr110,World,ZWE,Zimbabwe,Bulawayo,   0.670522000000000

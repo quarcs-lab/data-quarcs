@@ -1,198 +1,198 @@
-shapeGroup,shapeType,shapeName
-AFG,ADM0,Afghanistan
-GBR,ADM0,United Kingdom
-ALB,ADM0,Albania
-DZA,ADM0,Algeria
-USA,ADM0,United States
-ATG,ADM0,Antigua & Barbuda
-ARG,ADM0,Argentina
-AND,ADM0,Andorra
-AGO,ADM0,Angola
-ARM,ADM0,Armenia
-NLD,ADM0,Netherlands
-AUS,ADM0,Australia
-AUT,ADM0,Austria
-AZE,ADM0,Azerbaijan
-BHS,ADM0,"Bahamas, The"
-BRB,ADM0,Barbados
-BLR,ADM0,Belarus
-BEL,ADM0,Belgium
-BLZ,ADM0,Belize
-BTN,ADM0,Bhutan
-BOL,ADM0,Bolivia
-BIH,ADM0,Bosnia & Herzegovina
-BWA,ADM0,Botswana
-NOR,ADM0,Norway
-COL,ADM0,Colombia
-COM,ADM0,Comoros
-BRA,ADM0,Brazil
-FRA,ADM0,France
-COD,ADM0,"Congo, Dem Rep of the"
-COG,ADM0,"Congo, Rep of the"
-NZL,ADM0,New Zealand
-BRN,ADM0,Brunei
-BGR,ADM0,Bulgaria
-BFA,ADM0,Burkina Faso
-BDI,ADM0,Burundi
-CPV,ADM0,Cabo Verde
-KHM,ADM0,Cambodia
-CMR,ADM0,Cameroon
-CAN,ADM0,Canada
-CRI,ADM0,Costa Rica
-CIV,ADM0,Cote d'Ivoire
-HRV,ADM0,Croatia
-CUB,ADM0,Cuba
-CAF,ADM0,Central African Rep
-TCD,ADM0,Chad
-CHL,ADM0,Chile
-CHN,ADM0,China
-CYP,ADM0,Cyprus
-CZE,ADM0,Czechia
-DNK,ADM0,Denmark
-DJI,ADM0,Djibouti
-DMA,ADM0,Dominica
-DOM,ADM0,Dominican Republic
-ECU,ADM0,Ecuador
-EGY,ADM0,Egypt
-SLV,ADM0,El Salvador
-GNQ,ADM0,Equatorial Guinea
-ERI,ADM0,Eritrea
-EST,ADM0,Estonia
-ETH,ADM0,Ethiopia
-FJI,ADM0,Fiji
-FIN,ADM0,Finland
-GAB,ADM0,Gabon
-GMB,ADM0,"Gambia, The"
-MAR,ADM0,Morocco
-MOZ,ADM0,Mozambique
-NAM,ADM0,Namibia
-GEO,ADM0,Georgia
-DEU,ADM0,Germany
-GHA,ADM0,Ghana
-GRC,ADM0,Greece
-GRL,ADM0,Greenland
-GRD,ADM0,Grenada
-NRU,ADM0,Nauru
-GTM,ADM0,Guatemala
-NPL,ADM0,Nepal
-GIN,ADM0,Guinea
-GNB,ADM0,Guinea-Bissau
-GUY,ADM0,Guyana
-HTI,ADM0,Haiti
-JOR,ADM0,Jordan
-HND,ADM0,Honduras
-HUN,ADM0,Hungary
-ISL,ADM0,Iceland
-IDN,ADM0,Indonesia
-IRN,ADM0,Iran
-IRQ,ADM0,Iraq
-IRL,ADM0,Ireland
-KAZ,ADM0,Kazakhstan
-KEN,ADM0,Kenya
-KIR,ADM0,Kiribati
-PRK,ADM0,"Korea, North"
-KOR,ADM0,"Korea, South"
-XKX,ADM0,Kosovo
-SRB,ADM0,Serbia
-SYC,ADM0,Seychelles
-SLE,ADM0,Sierra Leone
-SGP,ADM0,Singapore
-ITA,ADM0,Italy
-JAM,ADM0,Jamaica
-JPN,ADM0,Japan
-KGZ,ADM0,Kyrgyzstan
-LAO,ADM0,Laos
-LVA,ADM0,Latvia
-LBN,ADM0,Lebanon
-LSO,ADM0,Lesotho
-LBR,ADM0,Liberia
-LBY,ADM0,Libya
-LIE,ADM0,Liechtenstein
-LTU,ADM0,Lithuania
-LUX,ADM0,Luxembourg
-MCO,ADM0,Monaco
-MNG,ADM0,Mongolia
-MNE,ADM0,Montenegro
-MKD,ADM0,Macedonia
-MDG,ADM0,Madagascar
-MWI,ADM0,Malawi
-MYS,ADM0,Malaysia
-MDV,ADM0,Maldives
-MLI,ADM0,Mali
-MLT,ADM0,Malta
-MHL,ADM0,Marshall Is
-MRT,ADM0,Mauritania
-MUS,ADM0,Mauritius
-MEX,ADM0,Mexico
-FSM,ADM0,"Micronesia, Fed States of"
-MDA,ADM0,Moldova
-NIC,ADM0,Nicaragua
-OMN,ADM0,Oman
-PAK,ADM0,Pakistan
-PLW,ADM0,Palau
-PAN,ADM0,Panama
-PNG,ADM0,Papua New Guinea
-PRY,ADM0,Paraguay
-PER,ADM0,Peru
-PHL,ADM0,Philippines
-POL,ADM0,Poland
-PRT,ADM0,Portugal
-ROU,ADM0,Romania
-RUS,ADM0,Russia
-RWA,ADM0,Rwanda
-WSM,ADM0,Samoa
-SMR,ADM0,San Marino
-TON,ADM0,Tonga
-TTO,ADM0,Trinidad & Tobago
-TUN,ADM0,Tunisia
-TKM,ADM0,Turkmenistan
-STP,ADM0,Sao Tome & Principe
-SAU,ADM0,Saudi Arabia
-SEN,ADM0,Senegal
-SVK,ADM0,Slovakia
-SVN,ADM0,Slovenia
-SLB,ADM0,Solomon Is
-SOM,ADM0,Somalia
-ZAF,ADM0,South Africa
-SSD,ADM0,South Sudan
-ESP,ADM0,Spain
-LKA,ADM0,Sri Lanka
-KNA,ADM0,St Kitts & Nevis
-LCA,ADM0,St Lucia
-VCT,ADM0,St Vincent & the Grenadines
-SDN,ADM0,Sudan
-SUR,ADM0,Suriname
-SWZ,ADM0,Swaziland
-SWE,ADM0,Sweden
-CHE,ADM0,Switzerland
-SYR,ADM0,Syria
-TWN,ADM0,Taiwan
-TJK,ADM0,Tajikistan
-TZA,ADM0,Tanzania
-THA,ADM0,Thailand
-TLS,ADM0,Timor-Leste
-TGO,ADM0,Togo
-TUV,ADM0,Tuvalu
-UGA,ADM0,Uganda
-URY,ADM0,Uruguay
-UZB,ADM0,Uzbekistan
-VUT,ADM0,Vanuatu
-VAT,ADM0,Vatican City
-VEN,ADM0,Venezuela
-VNM,ADM0,Vietnam
-ZMB,ADM0,Zambia
-ZWE,ADM0,Zimbabwe
-YEM,ADM0,Yemen
-UKR,ADM0,Ukraine
-BHR,ADM0,Bahrain
-KWT,ADM0,Kuwait
-QAT,ADM0,Qatar
-ARE,ADM0,United Arab Emirates
-TUR,ADM0,Turkey
-ISR,ADM0,Israel
-BGD,ADM0,Bangladesh
-MMR,ADM0,Burma
-IND,ADM0,India
-BEN,ADM0,Benin
-NER,ADM0,Niger
-NGA,ADM0,Nigeria
+shapename,iso3c,shapegroup,shapetype
+Afghanistan,AFG,AFG,ADM0
+Albania,ALB,ALB,ADM0
+Algeria,DZA,DZA,ADM0
+Andorra,AND,AND,ADM0
+Angola,AGO,AGO,ADM0
+Antigua & Barbuda,ATG,ATG,ADM0
+Argentina,ARG,ARG,ADM0
+Armenia,ARM,ARM,ADM0
+Australia,AUS,AUS,ADM0
+Austria,AUT,AUT,ADM0
+Azerbaijan,AZE,AZE,ADM0
+"Bahamas, The",BHS,BHS,ADM0
+Bahrain,BHR,BHR,ADM0
+Bangladesh,BGD,BGD,ADM0
+Barbados,BRB,BRB,ADM0
+Belarus,BLR,BLR,ADM0
+Belgium,BEL,BEL,ADM0
+Belize,BLZ,BLZ,ADM0
+Benin,BEN,BEN,ADM0
+Bhutan,BTN,BTN,ADM0
+Bolivia,BOL,BOL,ADM0
+Bosnia & Herzegovina,BIH,BIH,ADM0
+Botswana,BWA,BWA,ADM0
+Brazil,BRA,BRA,ADM0
+Brunei,BRN,BRN,ADM0
+Bulgaria,BGR,BGR,ADM0
+Burkina Faso,BFA,BFA,ADM0
+Burma,MMR,MMR,ADM0
+Burundi,BDI,BDI,ADM0
+Cabo Verde,CPV,CPV,ADM0
+Cambodia,KHM,KHM,ADM0
+Cameroon,CMR,CMR,ADM0
+Canada,CAN,CAN,ADM0
+Central African Rep,CAF,CAF,ADM0
+Chad,TCD,TCD,ADM0
+Chile,CHL,CHL,ADM0
+China,CHN,CHN,ADM0
+Colombia,COL,COL,ADM0
+Comoros,COM,COM,ADM0
+"Congo, Dem Rep of the",COD,COD,ADM0
+"Congo, Rep of the",COG,COG,ADM0
+Costa Rica,CRI,CRI,ADM0
+Cote d'Ivoire,CIV,CIV,ADM0
+Croatia,HRV,HRV,ADM0
+Cuba,CUB,CUB,ADM0
+Cyprus,CYP,CYP,ADM0
+Czechia,CZE,CZE,ADM0
+Denmark,DNK,DNK,ADM0
+Djibouti,DJI,DJI,ADM0
+Dominica,DMA,DMA,ADM0
+Dominican Republic,DOM,DOM,ADM0
+Ecuador,ECU,ECU,ADM0
+Egypt,EGY,EGY,ADM0
+El Salvador,SLV,SLV,ADM0
+Equatorial Guinea,GNQ,GNQ,ADM0
+Eritrea,ERI,ERI,ADM0
+Estonia,EST,EST,ADM0
+Ethiopia,ETH,ETH,ADM0
+Fiji,FJI,FJI,ADM0
+Finland,FIN,FIN,ADM0
+France,FRA,FRA,ADM0
+Gabon,GAB,GAB,ADM0
+"Gambia, The",GMB,GMB,ADM0
+Georgia,GEO,GEO,ADM0
+Germany,DEU,DEU,ADM0
+Ghana,GHA,GHA,ADM0
+Greece,GRC,GRC,ADM0
+Greenland,GRL,GRL,ADM0
+Grenada,GRD,GRD,ADM0
+Guatemala,GTM,GTM,ADM0
+Guinea,GIN,GIN,ADM0
+Guinea-Bissau,GNB,GNB,ADM0
+Guyana,GUY,GUY,ADM0
+Haiti,HTI,HTI,ADM0
+Honduras,HND,HND,ADM0
+Hungary,HUN,HUN,ADM0
+Iceland,ISL,ISL,ADM0
+India,IND,IND,ADM0
+Indonesia,IDN,IDN,ADM0
+Iran,IRN,IRN,ADM0
+Iraq,IRQ,IRQ,ADM0
+Ireland,IRL,IRL,ADM0
+Israel,ISR,ISR,ADM0
+Italy,ITA,ITA,ADM0
+Jamaica,JAM,JAM,ADM0
+Japan,JPN,JPN,ADM0
+Jordan,JOR,JOR,ADM0
+Kazakhstan,KAZ,KAZ,ADM0
+Kenya,KEN,KEN,ADM0
+Kiribati,KIR,KIR,ADM0
+"Korea, North",PRK,PRK,ADM0
+"Korea, South",KOR,KOR,ADM0
+Kosovo,,XKX,ADM0
+Kuwait,KWT,KWT,ADM0
+Kyrgyzstan,KGZ,KGZ,ADM0
+Laos,LAO,LAO,ADM0
+Latvia,LVA,LVA,ADM0
+Lebanon,LBN,LBN,ADM0
+Lesotho,LSO,LSO,ADM0
+Liberia,LBR,LBR,ADM0
+Libya,LBY,LBY,ADM0
+Liechtenstein,LIE,LIE,ADM0
+Lithuania,LTU,LTU,ADM0
+Luxembourg,LUX,LUX,ADM0
+Macedonia,MKD,MKD,ADM0
+Madagascar,MDG,MDG,ADM0
+Malawi,MWI,MWI,ADM0
+Malaysia,MYS,MYS,ADM0
+Maldives,MDV,MDV,ADM0
+Mali,MLI,MLI,ADM0
+Malta,MLT,MLT,ADM0
+Marshall Is,MHL,MHL,ADM0
+Mauritania,MRT,MRT,ADM0
+Mauritius,MUS,MUS,ADM0
+Mexico,MEX,MEX,ADM0
+"Micronesia, Fed States of",FSM,FSM,ADM0
+Moldova,MDA,MDA,ADM0
+Monaco,MCO,MCO,ADM0
+Mongolia,MNG,MNG,ADM0
+Montenegro,MNE,MNE,ADM0
+Morocco,MAR,MAR,ADM0
+Mozambique,MOZ,MOZ,ADM0
+Namibia,NAM,NAM,ADM0
+Nauru,NRU,NRU,ADM0
+Nepal,NPL,NPL,ADM0
+Netherlands,NLD,NLD,ADM0
+New Zealand,NZL,NZL,ADM0
+Nicaragua,NIC,NIC,ADM0
+Niger,NER,NER,ADM0
+Nigeria,NGA,NGA,ADM0
+Norway,NOR,NOR,ADM0
+Oman,OMN,OMN,ADM0
+Pakistan,PAK,PAK,ADM0
+Palau,PLW,PLW,ADM0
+Panama,PAN,PAN,ADM0
+Papua New Guinea,PNG,PNG,ADM0
+Paraguay,PRY,PRY,ADM0
+Peru,PER,PER,ADM0
+Philippines,PHL,PHL,ADM0
+Poland,POL,POL,ADM0
+Portugal,PRT,PRT,ADM0
+Qatar,QAT,QAT,ADM0
+Romania,ROU,ROU,ADM0
+Russia,RUS,RUS,ADM0
+Rwanda,RWA,RWA,ADM0
+Samoa,WSM,WSM,ADM0
+San Marino,SMR,SMR,ADM0
+Sao Tome & Principe,STP,STP,ADM0
+Saudi Arabia,SAU,SAU,ADM0
+Senegal,SEN,SEN,ADM0
+Serbia,SRB,SRB,ADM0
+Seychelles,SYC,SYC,ADM0
+Sierra Leone,SLE,SLE,ADM0
+Singapore,SGP,SGP,ADM0
+Slovakia,SVK,SVK,ADM0
+Slovenia,SVN,SVN,ADM0
+Solomon Is,SLB,SLB,ADM0
+Somalia,SOM,SOM,ADM0
+South Africa,ZAF,ZAF,ADM0
+South Sudan,SSD,SSD,ADM0
+Spain,ESP,ESP,ADM0
+Sri Lanka,LKA,LKA,ADM0
+St Kitts & Nevis,KNA,KNA,ADM0
+St Lucia,LCA,LCA,ADM0
+St Vincent & the Grenadines,VCT,VCT,ADM0
+Sudan,SDN,SDN,ADM0
+Suriname,SUR,SUR,ADM0
+Swaziland,SWZ,SWZ,ADM0
+Sweden,SWE,SWE,ADM0
+Switzerland,CHE,CHE,ADM0
+Syria,SYR,SYR,ADM0
+Taiwan,TWN,TWN,ADM0
+Tajikistan,TJK,TJK,ADM0
+Tanzania,TZA,TZA,ADM0
+Thailand,THA,THA,ADM0
+Timor-Leste,TLS,TLS,ADM0
+Togo,TGO,TGO,ADM0
+Tonga,TON,TON,ADM0
+Trinidad & Tobago,TTO,TTO,ADM0
+Tunisia,TUN,TUN,ADM0
+Turkey,TUR,TUR,ADM0
+Turkmenistan,TKM,TKM,ADM0
+Tuvalu,TUV,TUV,ADM0
+Uganda,UGA,UGA,ADM0
+Ukraine,UKR,UKR,ADM0
+United Arab Emirates,ARE,ARE,ADM0
+United Kingdom,GBR,GBR,ADM0
+United States,USA,USA,ADM0
+Uruguay,URY,URY,ADM0
+Uzbekistan,UZB,UZB,ADM0
+Vanuatu,VUT,VUT,ADM0
+Vatican City,VAT,VAT,ADM0
+Venezuela,VEN,VEN,ADM0
+Vietnam,VNM,VNM,ADM0
+Yemen,YEM,YEM,ADM0
+Zambia,ZMB,ZMB,ADM0
+Zimbabwe,ZWE,ZWE,ADM0

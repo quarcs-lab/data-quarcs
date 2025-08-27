@@ -1,1 +1,1 @@
-https://github.com/quarcs-lab/data-quars/raw/master/gdo-cambodia/DATASETname.dta
+https://github.com/quarcs-lab/data-quarcs/raw/refs/heads/master/gdo-cambodia/DATASETname.extension
